@@ -1,11 +1,9 @@
 ---
 layout: single
-title: Publications
+title: List of Publications and Conference Contributions
 permalink: /publications/
 author_profile: true
 ---
-
-# List of Publications and Conference Contributions
 
 ## Journal Publications
 
