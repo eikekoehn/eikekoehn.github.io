@@ -3,11 +3,11 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Curriculum Vitae"
-     url: https://eikekoehn.github.io/_pages/cv.md
+     url: https://eikekoehn.github.io/cv
    - title: "Research Interest"
-     url: https://eikekoehn.github.io/_pages/research.md
+     url: https://eikekoehn.github.io/research
    - title: "Publications"
-     url: https://eikekoehn.github.io/_pages/publications.md
+     url: https://eikekoehn.github.io/publications
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
