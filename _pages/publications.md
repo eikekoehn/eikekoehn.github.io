@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications 
+# List of Publications and Conference Contributions
 
 ## Journal Publications
 
