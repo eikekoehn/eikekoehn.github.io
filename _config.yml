@@ -142,11 +142,13 @@ footer:
       # url:
 
 
-include: ["_pages"]
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _pages/publications.md
+  - _pages/research.md
+  - _pages/cv.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
