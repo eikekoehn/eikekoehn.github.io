@@ -4,4 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-Here is a list of publications and conference posters/presentations.
+# Publications 
+
+## Journal Publications
+
+## Conference Presentations
+
+## Conference Posters
