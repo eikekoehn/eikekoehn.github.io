@@ -99,7 +99,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "(Physical) Oceanographer &\nClimate Scientist"
   location         : "Zurich, Switzerland"
-  email            : ""
+  #email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
