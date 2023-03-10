@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Eike E. Köhn"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "(Physical) Oceanographer & Climate Scientist"
+  bio              : "(Physical) Oceanographer &\nClimate Scientist"
   location         : "Zurich, Switzerland"
   email            : ""
   links:
