@@ -101,9 +101,6 @@ author:
   location         : "Zurich, Switzerland"
   email            : "mailto:eike.koehn@usys.ethz.ch"
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:eike.koehn@usys.ethz.ch"
     - label: "ResearchGate"
       icon: "fas fa-fw fa-researchgate" # "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Eike-Koehn"
@@ -122,6 +119,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:eike.koehn@usys.ethz.ch"
 
 # Site Footer
 footer:
