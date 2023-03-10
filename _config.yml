@@ -103,9 +103,9 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:koehn.eike@gmail.com"
+      url: "mailto:eike.koehn@usys.ethz.ch"
     - label: "ResearchGate"
-      icon: "fab fa-researchgate" # "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-researchgate" # "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Eike-Koehn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
