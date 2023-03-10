@@ -97,13 +97,16 @@ analytics:
 author:
   name             : "Eike E. Köhn"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "(Physical) Oceanographer and Climate Scientist"
+  bio              : "(Physical) Oceanographer & Climate Scientist"
   location         : "Zurich, Switzerland"
   email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:koehn.eike@gmail.com"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Eike-Koehn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
