@@ -102,7 +102,7 @@ author:
   email            : "mailto:eike.koehn@usys.ethz.ch"
   links:
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-researchgate" # "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-researchgate" # "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Eike-Koehn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
