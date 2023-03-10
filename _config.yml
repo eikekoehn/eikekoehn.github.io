@@ -99,7 +99,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "(Physical) Oceanographer &\nClimate Scientist"
   location         : "Zurich, Switzerland"
-  email            : "mailto:eike.koehn@usys.ethz.ch"
+  email            : "eike.koehn@usys.ethz.ch"
   links:
     - label: "ResearchGate"
       icon: "fa-brands fa-fw fa-researchgate" # "fas fa-fw fa-link"
