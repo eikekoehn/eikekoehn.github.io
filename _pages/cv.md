@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 ## Education
-- **PhD** in Environmental Physics Group @ ETH Zurich, Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
+- **PhD** @ ETH Zurich, Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
 *Thesis*: "Water Column Perspectives on Marine Heatwaves and Low Oxygen Extreme Events in the Eastern Pacific"\
 *Supervisors*: Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
@@ -25,9 +25,10 @@ permalink: /cv/
 - Python, Matlab, Ferret, Unix, LaTeX, Fortran (basics), html/css (basics), 
 
 ## Teaching
-- **Co-supervision of two M.Sc. Theses @ ETH Zürich**\
-1. "*Ocean oxygen extreme events in the Eastern Tropical Pacific*" (Simona Meiler)
-2. "*Marine heatwaves*" (Joëlle Perreten)
+- **Co-supervision of M.Sc. Theses @ ETH Zürich**\
+1. "*Ocean oxygen extreme events in the Eastern Tropical Pacific*" (S. Meiler)
+2. "*Marine heatwaves*" (J. Perreten)
+3. "*TBD*" (A. van Langen Roson)
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
@@ -121,8 +122,3 @@ Congressi Stefano Franscini, Monte Verità, Ascona, Switzerland
 - **ICTP-CLIVAR Summer School on Oceanic Eastern Boundary Upwelling Systems**\
 Jul 15-19, 2019\
 ITCP Trieste, Italy
-
-## Other Experiences
-- Member of Organizing Committee for 4 day meteorological student conference “StuMeTa”  (Kiel, 4th-8th May 2016)
-- Participation in Integrated School of Ocean Sciences (ISOS) course: “Ocean Governance and Marine Biological Diversity” (Kiel, January 2017)
-- Participation in international workshop “Seafloor Mineral Resources: Scientific, Environmental, and Societal Issues” (Kiel, 18th-20th March 2013)
