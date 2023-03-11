@@ -7,6 +7,8 @@ permalink: /cv/
 
 ## Education
 - **PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
+<br /> <span style="font-weight: 600">Thesis: </span> \
+
 Thesis: *"Water Column Perspectives on Marine Heatwaves and Low Oxygen Extreme Events in the Eastern Pacific"*\
 Supervisors: Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
@@ -28,9 +30,9 @@ Supervisors: Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-1. S. Meiler () - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
-2. J. Perreten () - *"Marine heatwaves"*
-3. A. van Langen Roson () - *"TBD"* 
+1. S. Meiler (2019) - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
+2. J. Perreten (2021) - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"*
+3. A. van Langen Roson (2023) - *"TBD"* 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
