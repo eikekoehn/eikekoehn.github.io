@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 ## Education
-- <u>**PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)</u>\
+- **PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
 <span style="font-weight: 600">Thesis: </span> *"Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific"* \
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
