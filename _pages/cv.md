@@ -7,20 +7,20 @@ permalink: /cv/
 
 ## Education
 - **PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
-<span style="font-weight: 550">Thesis: </span> *"Water Column Perspectives on Marine Heatwaves and Low Oxygen Extreme Events in the Eastern Pacific"* \
-<span style="font-weight: 550">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
+<span style="font-weight: 600">Thesis: </span> *"Water Column Perspectives on Marine Heatwaves and Low Oxygen Extreme Events in the Eastern Pacific"* \
+<span style="font-weight: 600">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
 - **M.Sc.** in *Climate Physics: Meteorology and Physical Oceanography* @ GEOMAR/Kiel University, Germany (2014-2018)\
-<span style="font-weight: 550">Thesis: </span> *"Ventilation of oxygen minimum zones by geostrophic turbulence in a shallow water model"*\
+<span style="font-weight: 600">Thesis: </span> *"Ventilation of oxygen minimum zones by geostrophic turbulence in a shallow water model"*\
 <!---["Ventilation of oxygen minimum zones by geostrophic turbulence in a shallow water model"](dummy.pdf)\
 -->
-<span style="font-weight: 550">Supervisors: </span>Prof. Dr. Martin Claus, Prof. Dr. Richard Greatbatch
+<span style="font-weight: 600">Supervisors: </span>Prof. Dr. Martin Claus, Prof. Dr. Richard Greatbatch
 
 - **B.Sc.** in *Physics of the Earth System* @ GEOMAR/Kiel University, Germany (2011-2014)\
-<span style="font-weight: 550">Thesis: </span> *"Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus (Small-scale variability in a region of permanent upwelling off Peru)"* 
+<span style="font-weight: 600">Thesis: </span> *"Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus (Small-scale variability in a region of permanent upwelling off Peru)"*\
 <!---["Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus"](http://eprints.uni-kiel.de/26833/1/Bachelor_Arbeit_Eike_Koehn_2014.pdf)\ 
 -->
-<span style="font-weight: 550">Supervisors: </span>Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
+<span style="font-weight: 600">Supervisors: </span>Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
 
 ## Languages
 - German (mother tongue), English (fluent), French (advanced)
@@ -28,9 +28,9 @@ permalink: /cv/
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-   * Meiler, S. (2019) - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*\
-   * Perreten, J. (2021) - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"*\
-   * van Langen Roson, A. (2023) - *"TBD"* \
+    * Meiler, S. (2019) - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
+    * Perreten, J. (2021) - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"*
+    * van Langen Roson, A. (2023) - *"TBD"* 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
