@@ -26,8 +26,8 @@ permalink: /cv/
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-1. "*Ocean oxygen extreme events in the Eastern Tropical Pacific*" (S. Meiler)\
-2. "*Marine heatwaves*" (J. Perreten)\
+1. "*Ocean oxygen extreme events in the Eastern Tropical Pacific*" (S. Meiler)
+2. "*Marine heatwaves*" (J. Perreten)
 3. "*TBD*" (A. van Langen Roson)
 
 - **Teaching assistant @ ETH Zürich**\
