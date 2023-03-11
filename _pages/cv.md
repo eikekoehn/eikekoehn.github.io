@@ -28,9 +28,9 @@ permalink: /cv/
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-    - Meiler, S. (2019) - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
-    - Perreten, J. (2021) - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"*
-    - van Langen Roson, A. (2023) - *"TBD"* 
+<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
+<span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
+<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"* 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
@@ -42,7 +42,7 @@ Course Title: Biogeochemical Seminar (B.Sc.)\
 Fall Semester 2020
 
 - **Teaching assistant @ CAU Kiel/GEOMAR**\
-Course title: Analogues of ocean/atmosphere dynamical processes using shallow water models (M.Sc.)\
+Course title: Analogues of ocean/atmosphere dynamical processes using shallow water models (M.Sc. level)\
 Lecturers: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus\
 Summer Semester 2017
 
