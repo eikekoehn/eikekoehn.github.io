@@ -28,9 +28,9 @@ permalink: /cv/
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-    * Meiler, S. (2019) - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
-    * Perreten, J. (2021) - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"*
-    * van Langen Roson, A. (2023) - *"TBD"* 
+    - Meiler, S. (2019) - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
+    - Perreten, J. (2021) - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"*
+    - van Langen Roson, A. (2023) - *"TBD"* 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
