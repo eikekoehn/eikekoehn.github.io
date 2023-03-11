@@ -7,7 +7,7 @@ permalink: /cv/
 
 ## Education
 - **PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
-<span style="font-weight: 600">Thesis: </span> *"Water Column Perspectives on Marine Heatwaves and Low Oxygen Extreme Events in the Eastern Pacific"* \
+<span style="font-weight: 600">Thesis: </span> *"Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific"* \
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
 - **M.Sc.** in *Climate Physics: Meteorology and Physical Oceanography* @ GEOMAR/Kiel University, Germany (2014-2018)\
@@ -41,7 +41,7 @@ Spring Semesters 2019, 2020, 2021
 Course Title: Biogeochemical Seminar (B.Sc.)\
 Fall Semester 2020
 
-- **Teaching assistant @ CAU Kiel/GEOMAR**\
+- **Teaching assistant @ GEOMAR/Kiel University**\
 Course title: Analogues of ocean/atmosphere dynamical processes using shallow water models (M.Sc. level)\
 Lecturers: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus\
 Summer Semester 2017
