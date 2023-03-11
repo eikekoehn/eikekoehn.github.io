@@ -8,18 +8,19 @@ permalink: /cv/
 ## Education
 - **PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
 Thesis: *"Water Column Perspectives on Marine Heatwaves and Low Oxygen Extreme Events in the Eastern Pacific"*\
-Supervisors: *Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt*
+Supervisors: Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
 - **M.Sc.** in *Climate Physics: Meteorology and Physical Oceanography* @ GEOMAR/Kiel University, Germany (2014-2018)\
 Thesis: *"Ventilation of oxygen minimum zones by geostrophic turbulence in a shallow water model"*\
 <!---["Ventilation of oxygen minimum zones by geostrophic turbulence in a shallow water model"](dummy.pdf)\
 -->
-Supervisors: *Prof. Dr. Martin Claus, Prof. Dr. Richard Greatbatch*
+Supervisors: Prof. Dr. Martin Claus, Prof. Dr. Richard Greatbatch
 
 - **B.Sc.** in *Physics of the Earth System* @ GEOMAR/Kiel University, Germany (2011-2014)\
-Thesis: *"Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus"*\ 
-<!---["Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus"](http://eprints.uni-kiel.de/26833/1/Bachelor_Arbeit_Eike_Koehn_2014.pdf)\ -->
-Supervisors: *Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen*
+Thesis: *"Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus (Small-scale variability in a region of permanent upwelling off Peru)"*\ 
+<!---["Kleinskalige Variabilität in einem Gebiet permanenten Auftriebs vor der Küste Perus"](http://eprints.uni-kiel.de/26833/1/Bachelor_Arbeit_Eike_Koehn_2014.pdf)\ 
+-->
+Supervisors: Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
 
 ## Languages
 - German (mother tongue), English (fluent), French (advanced)
@@ -27,9 +28,9 @@ Supervisors: *Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen*
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-1. "*Ocean oxygen extreme events in the Eastern Tropical Pacific*" (S. Meiler)
-2. "*Marine heatwaves*" (J. Perreten)
-3. "*TBD*" (A. van Langen Roson)
+1. S. Meiler - "*(Ocean oxygen extreme events in the Eastern Tropical Pacific)*"
+2. J. Perreten - "*(Marine heatwaves)*"
+3. A. van Langen Roson - "*(TBD)*" 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
