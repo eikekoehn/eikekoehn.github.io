@@ -28,9 +28,9 @@ Supervisors: Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
 
 ## Teaching
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-1. S. Meiler - "*(Ocean oxygen extreme events in the Eastern Tropical Pacific)*"
-2. J. Perreten - "*(Marine heatwaves)*"
-3. A. van Langen Roson - "*(TBD)*" 
+1. S. Meiler () - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"*
+2. J. Perreten () - *"Marine heatwaves"*
+3. A. van Langen Roson () - *"TBD"* 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
