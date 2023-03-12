@@ -93,7 +93,7 @@ ITCP Trieste, Italy
 ## Webinars
 - Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars)\
 a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
-running since November 2018
+running from 2018 to 2021
 
 ## Research Cruises
 - **M131**: Recife, Brazil - Walvis Bay, Namibia,\
