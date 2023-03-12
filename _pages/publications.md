@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Publications and Conference Contributions
 permalink: /publications/
 author_profile: true
