@@ -3,6 +3,11 @@ layout: single
 title: Curriculum Vitae
 author_profile: true
 permalink: /cv/
+tagline: " "
+header:
+    image: /assets/images/kiel_fjord.jpg
+    caption: "Kiel Fjord, [**Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853), Credit: E. E. Köhn"
+
 ---
 
 ## Education

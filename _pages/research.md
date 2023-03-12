@@ -1,8 +1,8 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 permalink: /research/
-title: " "
+title: "Research"
 tagline: " "
 header:
     image: /assets/images/lone_cypress_cropped.jpg
