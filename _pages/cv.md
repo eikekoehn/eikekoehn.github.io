@@ -12,7 +12,7 @@ header:
 ---
 
 ## Education
-- **PhD** @ ETH Zurich, Switzerland (Sep. 2018 - Mar. 2023)\
+- **PhD candidate** @ ETH Zurich, Switzerland (Sep. 2018 - 2023)\
 <span style="font-weight: 600">Thesis: </span> *"Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific"* \
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
@@ -28,29 +28,72 @@ header:
 -->
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
 
+- **Internship** @ Center for Ocean Solutions, Stanford University, USA (Jul - Aug, 2013)\
+<span style="font-weight: 600">Topic: </span> *Working on data processing and visualization of the [Kelp Forest Array (KFA)](https://oceansolutions.stanford.edu/research/completed-projects/kelp-forest-array) in Monterey Bay*\
+<span style="font-weight: 600">Supervisor: </span> Jamie Dunckley
+
+
 ## Languages
 - German (mother tongue), English (fluent), French (advanced)
 - Python, Matlab, Ferret, Unix, LaTeX, Fortran (basics), html/css (basics), 
 
-## Teaching
-- **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
-<span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
-<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"* 
+
+## Research & teaching 
 
 - **Teaching assistant @ ETH Zürich**\
 Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
 Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper Plattner\
 Spring Semesters 2019, 2020, 2021
 
+- **Co-supervision of M.Sc. Theses @ ETH Zürich**\
+<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
+<span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
+<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"* 
+
 - **Tutor for B.Sc. seminar @ ETH Zürich**\
 Course Title: Biogeochemical Seminar (B.Sc.)\
 Fall Semester 2020
+
+- **Research Assistant**\
+@ Theory and Modeling Department - GEOMAR\
+*Nonlinear shallow water modeling*\
+2015-2018\
+Supervisors: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus
 
 - **Teaching assistant @ GEOMAR/Kiel University**\
 Course title: Analogues of ocean/atmosphere dynamical processes using shallow water models (M.Sc. level)\
 Lecturers: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus\
 Summer Semester 2017
+
+- **Research Assistant**\
+@ Division of Physical Oceanography - GEOMAR\
+*Analysis of observational data from upwelling front experiment during Meteor 93 cruise*\
+2013-2015\
+Supervisors: Dr. Sören Thomsen, Prof. Dr. Torsten Kanzow
+
+
+## Summer Schools
+- **20<sup>th</sup> International Swiss Climate Summer School:**\
+*Extreme weather and climate: from atmospheric processes to impacts on ecosystems and society*\
+Aug 28 - September 2, 2022\
+Grindelwald, Switzerland
+
+- **18<sup>th</sup> International Swiss Climate Summer School:**\
+*Carbon and Climate in the Paris World:
+Getting out of the Fossil Fuel Carbon Budget Crunch*\
+Sep 8 - 13, 2019\
+Congressi Stefano Franscini, Monte Verità, Ascona, Switzerland
+
+- **ICTP-CLIVAR Summer School on Oceanic Eastern Boundary Upwelling Systems**\
+Jul 15-19, 2019\
+ITCP Trieste, Italy
+
+
+
+## Webinars
+- Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars)\
+a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
+running since November 2018
 
 ## Research Cruises
 - **M131**: Recife, Brazil - Walvis Bay, Namibia,\
@@ -96,37 +139,3 @@ Summer Semester 2017
 <u>Vessel</u>: R/V Alkor,\
 <u>Used systems</u>: Training in the usage of CTD, ADCP, etc.\
 <u>Chief Scientist</u>: Dr. Johannes Karstensen
-
-## Internships and Research Projects
-- **Research Assistant**\
-@ Theory and Modeling Department - GEOMAR\
-*Nonlinear shallow water modeling*\
-2015-2018\
-Supervisors: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus
-
-- **Research Assistant**\
-@ Division of Physical Oceanography - GEOMAR\
-*Analysis of observational data from upwelling front experiment during Meteor 93 cruise*\
-2013-2015\
-Supervisors: Dr. Sören Thomsen, Prof. Dr. Torsten Kanzow
-
-- **Internship**\
-@ Center for Ocean Solutions, Stanford University, USA\
-*Working on data processing and visualization of the [Kelp Forest Array (KFA)](https://kelpforestarray.com) in Monterey Bay*\
-Jul - Aug, 2013\
-Supervisor: Jamie Dunckley
-
-## Webinars
-- Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars), a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
-running since November 2018
-
-## Summer Schools
-- **18<sup>th</sup> International Swiss Climate Summer School:**\
-*Carbon and Climate in the Paris World:
-Getting out of the Fossil Fuel Carbon Budget Crunch*\
-Sep 8 - 13, 2019\
-Congressi Stefano Franscini, Monte Verità, Ascona, Switzerland
-
-- **ICTP-CLIVAR Summer School on Oceanic Eastern Boundary Upwelling Systems**\
-Jul 15-19, 2019\
-ITCP Trieste, Italy
