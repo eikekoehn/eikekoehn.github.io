@@ -29,8 +29,8 @@ header:
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Torsten Kanzow, Dr. Marcus Dengler, Dr. Sören Thomsen
 
 - **Internship** @ Center for Ocean Solutions, Stanford University, USA (Jul - Aug, 2013)\
-<span style="font-weight: 600">Topic: </span> *Working on data processing and visualization of the [Kelp Forest Array (KFA)](https://oceansolutions.stanford.edu/research/completed-projects/kelp-forest-array) in Monterey Bay*\
-<span style="font-weight: 600">Supervisor: </span> Jamie Dunckley
+<span style="font-weight: 600">Topic: </span> *Data processing and visualization for the [Kelp Forest Array (KFA)](https://oceansolutions.stanford.edu/research/completed-projects/kelp-forest-array) in Monterey Bay*\
+<span style="font-weight: 600">Supervisor: </span> Dr. Jamie Dunckley
 
 
 ## Languages
@@ -41,14 +41,14 @@ header:
 ## Research & teaching 
 
 - **Teaching assistant @ ETH Zürich**\
-Course title: Introduction to Phyiscal Oceanography (B.Sc. level)\
+Course title: Introduction to Physical Oceanography (B.Sc. level)\
 Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper Plattner\
 Spring Semesters 2019, 2020, 2021
 
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
-<span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
 <span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"* 
+<span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
+<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
 
 - **Tutor for B.Sc. seminar @ ETH Zürich**\
 Course Title: Biogeochemical Seminar (B.Sc.)\
@@ -89,11 +89,11 @@ Jul 15-19, 2019\
 ITCP Trieste, Italy
 
 
-
 ## Webinars
 - Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars)\
 a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
 running from 2018 to 2021
+
 
 ## Research Cruises
 - **M131**: Recife, Brazil - Walvis Bay, Namibia,\
