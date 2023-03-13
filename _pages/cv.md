@@ -8,7 +8,6 @@ tagline: " "
 header:
     image: /assets/images/kiel_fjord_cropped_2.jpg
     caption: "Kiel Fjord, [**Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
-
 ---
 
 ## Education

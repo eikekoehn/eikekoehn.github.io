@@ -7,7 +7,6 @@ author_profile: true
 tagline: " "
 header:
     image: /assets/images/blackboard_2.jpg
-
 ---
 
 ## Journal Publications
