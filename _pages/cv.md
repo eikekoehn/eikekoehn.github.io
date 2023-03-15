@@ -45,7 +45,7 @@ Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper P
 Spring Semesters 2019, 2020, 2021
 
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"* 
+<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"*  \
 <span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
 <span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
 
