@@ -50,7 +50,7 @@ Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper P
 Spring Semesters 2019, 2020, 2021
 
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *" Variability of water column denitrification and its drivers in the Eastern Tropical Pacific Oxygen Deficient Zones"*  \
+<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"Variability of water column denitrification and its drivers in the Eastern Tropical Pacific Oxygen Deficient Zones"*  \
 <span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
 <span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* 
 
@@ -77,12 +77,12 @@ Supervisors: Dr. Sören Thomsen, Prof. Dr. Torsten Kanzow
 
 
 ## Summer Schools
-- **20<sup>th</sup> International Swiss Climate Summer School:**\
+- **20<sup>th</sup> International Swiss Climate Summer School**\
 *Extreme weather and climate: from atmospheric processes to impacts on ecosystems and society*\
 Aug 28 - September 2, 2022\
 Grindelwald, Switzerland
 
-- **18<sup>th</sup> International Swiss Climate Summer School:**\
+- **18<sup>th</sup> International Swiss Climate Summer School**\
 *Carbon and Climate in the Paris World:
 Getting out of the Fossil Fuel Carbon Budget Crunch*\
 Sep 8 - 13, 2019\
@@ -93,7 +93,7 @@ Jul 15-19, 2019\
 ITCP Trieste, Italy
 
 
-## Webinars
+## Outreach and communication
 - Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars)\
 a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
 running from 2018 to 2021
