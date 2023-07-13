@@ -10,12 +10,10 @@ header:
     caption: "Kiel Fjord, [**Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
 ---
 
-## Employment
+## Education and academic positions
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
 <span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* 
 
-
-## Education
 - **PhD candidate** @ ETH Zurich, Switzerland (Sep. 2018 - April 2023)\
 <span style="font-weight: 600">Thesis: </span> *"Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific"* \
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
