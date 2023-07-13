@@ -12,7 +12,7 @@ header:
 
 ## Employment
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
-<span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* \
+<span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* 
 
 
 ## Education
