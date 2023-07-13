@@ -27,6 +27,7 @@ header:
 
 ## Conference Contributions
 
-- April 2023: *On the structure and variability of vertically propagating marine heatwaves in the Eastern Pacific* on-site Talk @ **European Geophysical Union (EGU) General Assembly**, Vienna, Austria. [doi:10.5194/egusphere-egu23-17173](https://doi.org/10.5194/egusphere-egu23-17173)
+- April 2023: on-site Talk @ **European Geophysical Union (EGU) General Assembly**, Vienna, Austria.\
+*On the structure and variability of vertically propagating marine heatwaves in the Eastern Pacific* [doi:10.5194/egusphere-egu23-17173](https://doi.org/10.5194/egusphere-egu23-17173)
 
 - +++under construction+++
