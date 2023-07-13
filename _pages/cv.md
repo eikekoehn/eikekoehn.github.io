@@ -10,8 +10,13 @@ header:
     caption: "Kiel Fjord, [**Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
 ---
 
+## Work positions
+- **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
+<span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* \
+
+
 ## Education
-- **PhD candidate** @ ETH Zurich, Switzerland (Sep. 2018 - 2023)\
+- **PhD candidate** @ ETH Zurich, Switzerland (Sep. 2018 - April 2023)\
 <span style="font-weight: 600">Thesis: </span> *"Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific"* \
 <span style="font-weight: 600">Supervisors: </span>Prof. Dr. Nicolas Gruber, Dr. Matthias Münnich, Dr. Meike Vogt
 
@@ -34,7 +39,7 @@ header:
 
 ## Languages
 - German (mother tongue), English (fluent), French (advanced)
-- Python, Matlab, Ferret, Unix, LaTeX, Fortran (basics), html/css (basics), 
+- Python, Matlab, Ferret, Unix, LaTeX, Fortran (basics), html/css (basics) 
 
 
 ## Research & teaching 
@@ -45,9 +50,9 @@ Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper P
 Spring Semesters 2019, 2020, 2021
 
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
-<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *"TBD"*  \
+<span style="font-weight: 600">van Langen Roson, A. (2023) </span> - *" Variability of water column denitrification and its drivers in the Eastern Tropical Pacific Oxygen Deficient Zones"*  \
 <span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
-<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* \
+<span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* 
 
 - **Tutor for B.Sc. seminar @ ETH Zürich**\
 Course Title: Biogeochemical Seminar (B.Sc.)\
