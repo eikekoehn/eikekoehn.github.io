@@ -10,7 +10,7 @@ header:
     caption: "Kiel Fjord, [**Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
 ---
 
-## Work positions
+## Employment
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
 <span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* \
 
