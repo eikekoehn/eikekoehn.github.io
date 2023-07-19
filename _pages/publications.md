@@ -9,8 +9,6 @@ header:
     image: /assets/images/blackboard_2.jpg
 ---
 
-++++++++++++++ Under construction! ++++++++++++++
-
 ## Journal Publications
 
 - **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N.: On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *submitted*, preprint available under [doi:10.22541/essoar.168565400.06607545/v1](https://doi.org/10.22541/essoar.168565400.06607545/v1)
