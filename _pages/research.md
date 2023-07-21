@@ -1,5 +1,5 @@
 ---
-layout: splash # single
+layout: single
 classes: wide
 author_profile: true
 permalink: /research/
