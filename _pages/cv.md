@@ -56,8 +56,7 @@ Spring Semesters 2019, 2020, 2021
 Course Title: Biogeochemical Seminar (B.Sc.)\
 Fall Semester 2020
 
-- **Research Assistant**\
-@ Theory and Modeling Department - GEOMAR\
+- **Research Assistant @ Theory and Modeling Department - GEOMAR**\
 *Nonlinear shallow water modeling*\
 2015-2018\
 Supervisors: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus
@@ -67,7 +66,7 @@ Course title: Analogues of ocean/atmosphere dynamical processes using shallow wa
 Lecturers: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus\
 Summer Semester 2017
 
-- **Research Assistant  @ Division of Physical Oceanography - GEOMAR**\
+- **Research Assistant @ Division of Physical Oceanography - GEOMAR**\
 *Analysis of observational data from upwelling front experiment during Meteor 93 cruise*\
 2013-2015\
 Supervisors: Dr. Sören Thomsen, Prof. Dr. Torsten Kanzow
