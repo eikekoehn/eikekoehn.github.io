@@ -67,8 +67,7 @@ Course title: Analogues of ocean/atmosphere dynamical processes using shallow wa
 Lecturers: Prof. Dr. Richard Greatbatch, Prof. Dr. Martin Claus\
 Summer Semester 2017
 
-- **Research Assistant**\
-@ Division of Physical Oceanography - GEOMAR\
+- **Research Assistant  @ Division of Physical Oceanography - GEOMAR**\
 *Analysis of observational data from upwelling front experiment during Meteor 93 cruise*\
 2013-2015\
 Supervisors: Dr. Sören Thomsen, Prof. Dr. Torsten Kanzow
