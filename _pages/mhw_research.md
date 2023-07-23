@@ -1,7 +1,6 @@
 ---
 layout: single
 classes: wide
-title: Marine Heatwaves (MHWs)
 permalink: /mhw_research/
 sidebar: 
   - title: "Marine Heatwaves (MHWs)"
@@ -14,4 +13,4 @@ header:
     caption: "Credits: E.E. Köhn"
 ---
 
-Hello - MHWs.
+Marine heatwaves (MHWs) are defined as discrete periods of exceptionally high water temperetures, typically measured at the sea surface.
