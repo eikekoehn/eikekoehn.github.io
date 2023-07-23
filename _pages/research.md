@@ -11,7 +11,7 @@ header:
 intro: 
     - excerpt: In my research I try to uncover how physical and biogeochemical processes shape the marine environment as we know it. An improved understanding of these mechanisms can help us anticipate future ocean and climate changes and support the preservation of marine ecosystem services, such as the provision of food or the uptake of excess heat and carbon dioxide. Next to this human-centered motivation, I am further driven by a simple fascination for all processes that occur against the backdrop of the whirling and swirling ocean. 
 feature_row:
-  - image_path: /assets/images/humpac15_temp_o2_animation2.jpg
+  - image_path: /assets/images/mhw_sketch_cropped.jpg
     image_caption: "Credits: E.E. Köhn"
     title: "Marine Heatwaves (MHWs)"
     excerpt: "Understanding how MHWs affect the upper ocean also beyond the sea surface."
