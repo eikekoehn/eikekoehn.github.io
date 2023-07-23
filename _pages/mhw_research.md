@@ -2,8 +2,9 @@
 layout: single
 classes: wide
 title: Marine Heatwaves (MHWs)
-author_profile: true
+author_profile: false
 permalink: /mhw_research/
+toc: true
 tagline: " "
 header:
     image: /assets/images/coast_with_sailboat_cropped.jpg
