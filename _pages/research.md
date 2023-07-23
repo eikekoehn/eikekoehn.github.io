@@ -3,8 +3,8 @@ title: "Research Interest"
 layout: splash
 permalink: /research/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.05"
+  overlay_color: "#fff"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/coast_with_sailboat_cropped.jpg
   caption: "Credits: E.E. Köhn"
 #excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
