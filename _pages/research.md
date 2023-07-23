@@ -1,5 +1,5 @@
 ---
-title: "<br> <br>                                          Research Interest"
+title: "<br> <br> $\qquad$ $\qquad$ $\qquad$ $\qquad$ Research Interest"
 layout: splash
 permalink: /research/
 header:
