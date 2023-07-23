@@ -7,25 +7,26 @@ permalink: /research/
 #tagline: " "
 header:
     image: /assets/images/coast_with_sailboat_cropped.jpg
-    caption: "EEKöhn"
+    caption: "Credits: E.E. Köhn"
 intro: 
     - excerpt: In my research I try to uncover which physical and biogeochemical processes shape the marine environment as we know it. An improved understanding of these processes can help us anticipate future ocean and climate changes and support the preservation of marine ecosystem services, such as the provision of food or the uptake of excess heat and carbon dioxide. Next to this human-centered motivation, I am further driven by a simple fascination for all processes that occur against the backdrop of the whirling and swirling ocean. 
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
+    image_caption: "Credits: D. Louchard"
     title: "Marine Heatwaves (MHWs)"
     excerpt: "Understanding how MHWs affect the upper ocean also beyond the sea surface."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/max-gotts-6-wZzd2hCOs-unsplash-2.jpg
-    image_caption: "Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
+    image_caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
     title: "Oxygen Minimum Zone (OMZ) variability"
     excerpt: "Understanding OMZ variability and its implications for marine life."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary" #"btn--secondar"
   - image_path: /assets/images/lone_cypress2.jpg
-    image_caption: "EEKöhn, Lone Cypress, [**California**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
+    image_caption: "Credits: E.E. Köhn, Lone Cypress, [**California**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
     title: "Eastern Boundary Upwelling Systems (EBUS)"
     excerpt: "Understanding the physics and biogeochemistry of highly productive EBUS."
     url: "#test-link"
