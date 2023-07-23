@@ -25,6 +25,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary" #"btn--secondar"
   - image_path: /assets/images/lone_cypress2.jpg
+    image_caption: "EEKoehn, Lone Cypress, [**California**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
     title: "Eastern Boundary Upwelling Systems (EBUS)"
     excerpt: "Understanding the physics and biogeochemistry of highly productive EBUS."
     url: "#test-link"
