@@ -1,7 +1,7 @@
 ---
 layout: splash
-classes: wide
-author_profile: true
+#classes: wide
+#author_profile: true
 permalink: /research/
 title: "Research"
 tagline: " "
