@@ -1,9 +1,9 @@
 ---
 layout: splash
 #classes: wide
-#author_profile: true
+author_profile: true
 permalink: /research/
-#title: "Research"
+title: "Research"
 #tagline: " "
 header:
     image: /assets/images/lone_cypress_cropped.jpg
