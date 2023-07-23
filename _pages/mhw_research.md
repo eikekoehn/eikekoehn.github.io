@@ -4,7 +4,7 @@ classes: wide
 title: Marine Heatwaves (MHWs)
 author_profile: false
 permalink: /mhw_research/
-sidebar:
+sidebar: true
   - title: "Marine Heatwaves (MHWs)"
     image: /assets/images/mhw_sketch_cropped.jpg
     image_alt: "image"
