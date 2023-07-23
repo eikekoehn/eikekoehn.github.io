@@ -6,6 +6,13 @@ main:
      url: https://eikekoehn.github.io/cv
    - title: "Research Interest"
      url: https://eikekoehn.github.io/research
+     sublinks:
+        - title: OMZ variability
+          url: /mhw_research/
+        - title: Marine Heatwaves
+          url: /mhw_research/
+        - title: EBUS
+          url: /mhw_research/
    - title: "Publications"
      url: https://eikekoehn.github.io/publications
   # - title: "Sample Posts"
