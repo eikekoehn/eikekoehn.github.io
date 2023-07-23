@@ -32,6 +32,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+{% include title %}
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
