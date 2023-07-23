@@ -2,8 +2,7 @@
 layout: splash
 #classes: wide
 #author_profile: true
-permalink: /
-#research/
+permalink: /research/
 #title: "Research"
 #tagline: " "
 header:
