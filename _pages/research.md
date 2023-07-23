@@ -24,7 +24,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary" #"btn--secondar"
-  - image_path: /assets/images/lone_cypress_cropped.jpg
+  - image_path: /assets/images/lone_cypress2.jpg
     title: "Eastern Boundary Upwelling Systems (EBUS)"
     excerpt: "Understanding the physics and biogeochemistry of highly productive EBUS."
     url: "#test-link"
