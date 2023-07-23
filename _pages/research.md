@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Research
+title: "Research"
 permalink: /research/
 header:
     image: /assets/images/coast_with_sailboat_cropped.jpg
