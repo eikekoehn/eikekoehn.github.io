@@ -22,7 +22,7 @@ feature_row:
     image_caption: "Credits: E.E. Köhn"
     title: "Marine Heatwaves (MHWs)"
     excerpt: "Understanding how MHWs affect the upper ocean also beyond the sea surface."
-    url: "/research/MHWs/"
+    url: "/research/mhw_research.md"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/lone_cypress2.jpg
