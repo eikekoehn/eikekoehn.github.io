@@ -15,7 +15,7 @@ tagline: " "
 
 **Marine heatwaves (MHWs)** are defined as discrete periods of exceptionally high water temperatures, typically measured at the sea surface. 
 Such anomalously warm periods can have profound consequences for marine organisms and ecosystems ().
-As the intensity and frequency of MHWs has increased over the last decades (), and is projected to so in the future (), they pose an increasing threat to marine life. Commonly, MHWs are detected at the sea surface (), guided by the availability of satellite based measurements of sea surface temepratures (SST). Yet, the habitat of many marine organisms spans the upper ocean water column. 
+As the intensity and frequency of MHWs has increased over the last decades (), and is projected to do so further in the future (), they pose an increasing threat to marine life. MHWs are commonly detected at the sea surface (), guided by the availability of satellite based measurements of sea surface temepratures (SST). Yet, the habitats of many marine organisms span the upper ocean water column, suggesting that temperature extremes beneath the well-mixed surface ocean (i.e., the mixed layer) are of similar relevance for marine life. To date, research on such subsurface MHWs is limited. 
 
-In my research, I try to overcome this discrepancy and extend the view on MHWs beyond the sea surface. In order to do so, I rely on data from high resolution regional ocean model simulations, which reproduces the upper ocean state as realistically as possible.
+In my research, I try to overcome this knowledge gap and extend the view on MHWs beyond the sea surface. In order to do so, I rely on data from high resolution regional ocean model simulations, which reproduces the upper ocean state as realistically as possible.
 
