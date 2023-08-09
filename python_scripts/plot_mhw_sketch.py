@@ -40,7 +40,7 @@ diff_thresh10_clim = sst_thresh10-sst_clim
 int_index90 = (sst_inst_smoothed-sst_clim)/(sst_thresh90-sst_clim)
 int_index10 = (sst_inst_smoothed-sst_clim)/(sst_thresh10-sst_clim)
 
-#%
+#%%
 facs = [1,2,3,4]
 cmap_fracs = [0.25,0.375,0.625,0.875]
 linewidths=[1.5,1,0.5,0.25]
@@ -83,14 +83,19 @@ ax.text(0.01,0.01,r'$\epsilon_{p90} = $90th percentile - climatology'+'\n'+'$\ep
 
 # plot the instantaneous temperature
 plt.plot(timevec,sst_inst_smoothed,color='k',linewidth=5,label='temperature')
-n=44
+n=24
 plt.annotate('instantaneous\ntemperature',[timevec[n],sst_inst_smoothed[n]],[30,60],textcoords='offset points',arrowprops=dict(facecolor='#888888',edgecolor='#888888', shrink=0.1),fontsize=fontsize+5)
+n2 = 300
+plt.annotate('MHW\ni.e., marine\nheatwave',[timevec[n2],sst_inst_smoothed[n2]],[-50,30],textcoords='offset points',arrowprops=dict(facecolor='#888888',edgecolor='#888888', shrink=0.05),fontsize=fontsize+10,ha='right')#,va='center')
+n3 = 440
+plt.annotate('MCS\ni.e., marine\ncoldspell',[timevec[n3],sst_inst_smoothed[n3]],[-60,-60],textcoords='offset points',arrowprops=dict(facecolor='#888888',edgecolor='#888888', shrink=0.05),fontsize=fontsize+10,ha='right',va='center')
 # finalize plot
 plt.ylabel('Temperature in °C',fontsize=fontsize+5)
 plt.xlabel('Time',fontsize=fontsize+5)
 ax.spines[['right', 'top']].set_visible(False)
 plt.tight_layout()
-plt.savefig('mhw_concept_sketch.png',dpi=300)
+plot_dir = '../assets/images/'
+plt.savefig(plot_dir+'mhw_concept_sketch.png',dpi=300)
 plt.show()
 
 # %%
