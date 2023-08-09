@@ -19,7 +19,6 @@ As the intensity and frequency of MHWs has increased over the last decades, and 
 In my research, I try to overcome this knowledge gap and extend the view on MHWs beyond the sea surface. In order to do so, I rely on data from high resolution regional ocean model simulations, which reproduces the upper ocean state as realistically as possible.
 
 ![Test](mhw_concept_sketch.png "Test")
-*Figure 1: Sketch of MHW definition following Hobday et al. (2016, 2018).*
 
 ++++++++ page under construction ++++++++
 
