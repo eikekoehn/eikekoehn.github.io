@@ -8,6 +8,14 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import scipy.ndimage as spndimage
 
+#%%
+
+def create_ar1_process(nlength,autocorr=0.99,noise_scaling=1):
+    ar1_process = np.zeros(nlength)
+    for i in range(1,nlength):
+        ar1_process[i] = ar1_process[i-1]*autocorr + np.random.randn(1)*noise_scaling
+    return ar1_process
+
 # %%
 timevec = pd.date_range('2001-09-01','2003-02-01')
 years = timevec.year
@@ -16,29 +24,24 @@ index = np.arange(len(timevec))
 
 #%% GENERATE THE TEMPERATURE TIME SERIES
 sst_mean = 15
-seasonal_variability = 8
+seasonal_variability_amplitude = 8
 
 # Climatology
-sst_clim = np.cos(index*2*np.pi/365)*seasonal_variability + sst_mean
-
-# Instantaneous temperature
-autocorr = 0.99
-sst_anom = np.zeros_like(sst_clim)
-for i in range(1,len(sst_anom)):
-    sst_anom[i] = sst_anom[i-1]*autocorr + np.random.randn(1)*0.95
-sst_inst = (sst_clim + sst_anom)+1
-m = 15
-sst_inst_smoothed = spndimage.convolve(sst_inst,np.ones(m),mode='reflect')/m
+sst_clim = np.cos(index*2*np.pi/365)*seasonal_variability_amplitude + sst_mean
 
 # Thresholds
-sst_thresh90 = -1.2*(np.cos(index*2*np.pi/365)-1)+2+sst_clim
-sst_thresh10 = 1.2*(np.cos(index*2*np.pi/365)-1)-2+sst_clim
-diff_thresh90_clim = sst_thresh90-sst_clim
-diff_thresh10_clim = sst_thresh10-sst_clim
+seasonal_variance = 1.2*(np.cos(index*2*np.pi/365)-1)
+thresh_offset = 2
+sst_thresh90 = sst_clim + thresh_offset - seasonal_variance
+sst_thresh10 = sst_clim - thresh_offset + seasonal_variance
+diff_thresh90_clim = sst_thresh90 - sst_clim
+diff_thresh10_clim = sst_thresh10 - sst_clim
 
-# Calculate the continuous intensity index
-int_index90 = (sst_inst_smoothed-sst_clim)/(sst_thresh90-sst_clim)
-int_index10 = (sst_inst_smoothed-sst_clim)/(sst_thresh10-sst_clim)
+# Instantaneous temperature
+sst_anom = create_ar1_process(np.size(sst_clim),autocorr=0.99,noise_scaling=0.95)
+sst_inst = (sst_clim + sst_anom)+1 # add 1 to make it more prone for MHWs
+smoothing_kernel_length = 15
+sst_inst_smoothed = spndimage.convolve(sst_inst,np.ones(smoothing_kernel_length),mode='reflect')/smoothing_kernel_length
 
 #%%
 facs = [1,2,3,4]
@@ -95,7 +98,7 @@ plt.xlabel('Time',fontsize=fontsize+5)
 ax.spines[['right', 'top']].set_visible(False)
 plt.tight_layout()
 plot_dir = '../assets/images/'
-plt.savefig(plot_dir+'mhw_concept_sketch.png',dpi=300)
+#plt.savefig(plot_dir+'mhw_concept_sketch.png',dpi=300)
 plt.show()
 
 # %%
