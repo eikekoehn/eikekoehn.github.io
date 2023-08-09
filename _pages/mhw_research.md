@@ -19,7 +19,7 @@ As the intensity and frequency of MHWs has increased over the last decades, and 
 In my research, I try to overcome this knowledge gap and extend the view on MHWs beyond the sea surface. In order to do so, I rely on data from high resolution regional ocean model simulations, which reproduces the upper ocean state as realistically as possible.
 
 ![Figure of MHW definition following Hobday et al. (2016, 2018)](/assets/images/mhw_concept_sketch.png "Example time series of water temperature with the occurrence of MHWs and cold spells.")
-*Figure 1: Sketch of MHW definition following Hobday et al. (2016, 2018).*
+*Figure 1: Sketch of MHW definition following Hobday et al. (2016, 2018). The example temperature time series is created as an AR(1) process, using a temporal autocorrelation of 0.99 and noise from the standard normal distribution. Marine heatwaves (MHWs) and marine coldspells (MCS) are defined as instances where the temperature leaves the "normal" variability range, defined by the 90th and 10th percentile of the seasonally varying temperature distribution.*
 
 ++++++++ page under construction ++++++++
 
