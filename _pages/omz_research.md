@@ -3,7 +3,8 @@ layout: single
 classes: wide
 permalink: /omz_research/
 sidebar: 
-  - image: "/assets/images/max-gotts-6-wZzd2hCOs-unsplash-2.jpg"
+  - title: ""
+    image: "/assets/images/max-gotts-6-wZzd2hCOs-unsplash-2.jpg"
     image_caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
     image_alt: "image"
   - title: "Oxygen Minimum Zone (OMZs) variability"
