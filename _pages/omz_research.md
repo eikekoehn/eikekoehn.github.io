@@ -5,9 +5,9 @@ permalink: /omz_research/
 sidebar: 
   - title: "Oxygen Minimum Zone (OMZs) variability"
     image: "/assets/images/max-gotts-6-wZzd2hCOs-unsplash-2.jpg"
-    caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
+    image_caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
     image_alt: "image"
-    text: "Understanding how OMZs vary in time and space and their effects on marine habitats."
+    text: "Understanding how OMZs vary in time and space and how this affects marine habitats."
 tagline: " "
 usemathjax: true
 #header:
@@ -22,4 +22,4 @@ usemathjax: true
 
 **Oxygen minimum zones (OMZs)** are parts or volumes of the global ocean that are characterized by very low concentrations of dissolved oxygen. 
 
-
++++++++++++++ Page under construction +++++++++++++
