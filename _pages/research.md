@@ -29,7 +29,7 @@ feature_row:
     image_caption: "Credits: E.E. Köhn, [**Lone Cypress**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
     title: "Eastern Boundary Upwelling Systems (EBUS)"
     excerpt: "Understanding the physics and biogeochemistry of highly productive EBUS."
-    url: "#test-link"
+    url: "/ebus_research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
