@@ -4,11 +4,13 @@
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
+      <div class="archive__item-teaser">
         <img src="{{ s.image | relative_url }}"
              alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
         {% if s.image_caption %}
              <span class="archive__item-caption">{{ s.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
         {% endif %}
+      </div>
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
