@@ -15,7 +15,7 @@ feature_row:
     image_caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
     title: "Oxygen Minimum Zone (OMZ) variability"
     excerpt: "Understanding OMZ variability and its implications for marine life."
-    url: "#test-link"
+    url: "/omz_research/"
     btn_label: "Read More"
     btn_class: "btn--primary" #"btn--secondar"
   - image_path: /assets/images/mhw_sketch_cropped.jpg
