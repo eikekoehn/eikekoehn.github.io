@@ -3,11 +3,10 @@ layout: single
 classes: wide
 permalink: /ebus_research/
 sidebar: 
-  - title: ""
-    image: "/assets/images/lone_cypress2.jpg"
-    image_caption: "Credits: E.E. Köhn, [**Lone Cypress**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
-    image_alt: "image"
   - title: "Eastern Boundary Upwelling Systems (EBUS)"
+    image: "/assets/images/lone_cypress2.jpg"
+    image_caption: "Credits: E.E. Köhn" #, [**Lone Cypress**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
+    image_alt: "image"
     text: "Understanding the role of EBUS in regional and global climate."
 tagline: " "
 usemathjax: true
