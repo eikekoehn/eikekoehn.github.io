@@ -5,7 +5,7 @@ permalink: /omz_research/
 sidebar: 
   - title: "Oxygen Minimum Zone (OMZs) variability"
     image: "/assets/images/max-gotts-6-wZzd2hCOs-unsplash-2.jpg"
-    image_caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
+    caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
     image_alt: "image"
     text: "Understanding how OMZs vary in time and space and their effects on marine habitats."
 tagline: " "
