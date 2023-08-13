@@ -21,6 +21,6 @@ usemathjax: true
   type="text/javascript">
 </script>
 
-**Oxygen minimum zones (OMZs)** are parts or volumes of the global ocean that are characterized by very low concentrations of dissolved oxygen. 
+**Oxygen minimum zones (OMZs)** are regions of the global ocean that are characterized by very low concentrations of dissolved oxygen. 
 
 +++++++++++++ Page under construction +++++++++++++
