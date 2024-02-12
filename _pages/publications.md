@@ -15,7 +15,7 @@ header:
 
 - **Köhn, E. E.**, Vogt, M., Münnich, M., & Gruber, N.: Towards monitoring subsurface marine heatwaves based on sea surface properties in the Eastern Pacific. *in preparation*
 
-- **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N.: On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *accepted for publication in Journal of Geophysical Research: Oceans*, preprint available under [doi:10.22541/essoar.168565400.06607545/v1](https://doi.org/10.22541/essoar.168565400.06607545/v1)
+- **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N.: On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 129, e2023JC020063 [doi:10.1029/2023JC020063](https://doi.org/10.1029/2023JC020063), 2024
 
 - **Köhn, E. E.**: Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific. PhD Thesis, ETH Zürich, Switzerland [doi: 10.3929/ethz-b-000611971](https://doi.org/10.3929/ethz-b-000611971), 2023
 
