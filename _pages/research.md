@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary" #"btn--secondar"
   - image_path: /assets/images/mhw_sketch_cropped.jpg
-    #image_caption: "Credits: E.E. Köhn"
+    image_caption: "Credits: E.E. Köhn"
     title: "Marine Heatwaves (MHWs)"
     excerpt: "Understanding how MHWs affect the upper ocean also beyond the sea surface."
     url: "/mhw_research/"
