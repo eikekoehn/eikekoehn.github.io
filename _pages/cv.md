@@ -12,7 +12,7 @@ header:
 
 ## Academic positions and education
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
-<span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* 
+<span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"*\
 <span style="font-weight: 600">Supervisor: </span>Prof. Dr. Nicolas Gruber
 
 - **PhD candidate** @ ETH Zurich, Switzerland (Sep. 2018 - April 2023)\
