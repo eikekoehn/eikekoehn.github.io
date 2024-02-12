@@ -9,11 +9,7 @@ header:
     image: /assets/images/blackboard_2.jpg
 ---
 
-## Journal Publications
-
-- **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N. (*in preparation*): Future projections of physical and biogeochemical marine extreme events in the California Current System.
-
-- **Köhn, E. E.**, Vogt, M., Münnich, M., & Gruber, N. (*in preparation*). Towards monitoring subsurface marine heatwaves based on sea surface properties in the Eastern Pacific.
+## Journal articles (published)
 
 - **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N. (2024). On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 129, e2023JC020063 [doi:10.1029/2023JC020063](https://doi.org/10.1029/2023JC020063)
 
@@ -25,6 +21,12 @@ header:
 
 - **Köhn, E. E.**, Thomsen, S., Arévalo-Martínez, D. L., and Kanzow, T. (2017). Submesoscale CO<sub>2</sub> variability across an upwelling front off Peru. *Ocean Science*, 13, 1017–1033, [doi:10.5194/os-13-1017-2017](https://doi.org/10.5194/os-13-1017-2017)
 
+## Journal articles (in  preparation)
+
+- **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N. (*in preparation*): Future projections of physical and biogeochemical marine extreme events in the California Current System.
+
+- **Köhn, E. E.**, Vogt, M., Münnich, M., & Gruber, N. (*in preparation*). Towards monitoring subsurface marine heatwaves based on sea surface properties in the Eastern Pacific.
+
 ## Comments and Spotlights
 
 - Derouin, S. (2022). Short-term events can shrink the habitable zone in oceans. *EOS*, 103, [doi:10.1029/2022EO220388](https://doi.org/10.1029/2022EO220388)
@@ -34,4 +36,6 @@ header:
 - April 2023: on-site Talk @ **European Geophysical Union (EGU) General Assembly**, Vienna, Austria.\
 *On the structure and variability of vertically propagating marine heatwaves in the Eastern Pacific* [doi:10.5194/egusphere-egu23-17173](https://doi.org/10.5194/egusphere-egu23-17173)
 
-- +++under construction+++
+- ...
+
+++++++++ Page under construction ++++++++
