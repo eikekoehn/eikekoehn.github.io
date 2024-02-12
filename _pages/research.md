@@ -2,6 +2,7 @@
 title: "<br> <br> Research Interest"
 layout: splash
 permalink: /research/
+excerpt: "<br> <br> <br> <br> <br> <br>"
 header:
   overlay_color: "#FFFFFF"
   overlay_filter: "0.1"
