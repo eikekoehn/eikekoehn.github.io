@@ -1,8 +1,7 @@
 ---
-title: "<br> <br> Research Interest"
+title: "<br> <br> Research Interest <br> <br> <br>"
 layout: splash
 permalink: /research/
-excerpt: "<br> <br> <br> <br> <br> <br>"
 header:
   overlay_color: "#FFFFFF"
   overlay_filter: "0.1"
