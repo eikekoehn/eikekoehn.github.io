@@ -11,7 +11,13 @@ header:
 
 ## Journal Publications
 
-- **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N.: On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *submitted*, preprint available under [doi:10.22541/essoar.168565400.06607545/v1](https://doi.org/10.22541/essoar.168565400.06607545/v1)
+- **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N.: Future projections of physical and biogeochemical marine extreme events in the California Current System. *in preparation*
+
+- **Köhn, E. E.**, Vogt, M., Münnich, M., & Gruber, N.: Towards monitoring subsurface marine heatwaves based on sea surface properties in the Eastern Pacific. *in preparation*
+
+- **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N.: On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *accepted for publication in Journal of Geophysical Research: Oceans*, preprint available under [doi:10.22541/essoar.168565400.06607545/v1](https://doi.org/10.22541/essoar.168565400.06607545/v1)
+
+- **Köhn, E. E.**: Water column perspectives on marine heatwaves and low oxygen extreme events in the Eastern Pacific. PhD Thesis, ETH Zürich, Switzerland [doi: 10.3929/ethz-b-000611971](https://doi.org/10.3929/ethz-b-000611971), 2023
 
 - **Köhn, E. E.**, Münnich, M., Vogt, M., Desmet, F., and Gruber, N.: Strong Habitat Compression by Extreme Shoaling Events of Hypoxic Waters in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 127(6), e2022JC018429, [doi:10.1029/2022JC018429](https://doi.org/10.1029/2022JC018429), 2022.
 

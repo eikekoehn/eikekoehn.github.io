@@ -20,6 +20,6 @@ usemathjax: true
   type="text/javascript">
 </script>
 
-**Eastern Boundary Upwelling Systems (EBUS)** describe the regions located along the eastern sides of the ocean basins.
+**Eastern Boundary Upwelling Systems (EBUS)** are highly productive regions on the eastern sides of most ocean basins, contributing to about 10% of marine fish catch, despite making up only 1% of the global ocean.
 
 +++++++++++++ Page under construction +++++++++++++

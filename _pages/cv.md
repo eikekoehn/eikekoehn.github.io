@@ -7,10 +7,10 @@ permalink: /cv/
 tagline: " "
 header:
     image: /assets/images/kiel_fjord_cropped_2.jpg
-    caption: "Kiel Fjord, [**Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
+    caption: "Credits: Eike Köhn, [**Kiel Fjord, Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
 ---
 
-## Education and academic positions
+## Academic positions and education
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
 <span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"* 
 
