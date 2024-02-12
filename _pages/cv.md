@@ -40,17 +40,21 @@ header:
 - Python, Matlab, Ferret, Unix, LaTeX, Fortran (basics), html/css (basics) 
 
 
-## Research & teaching 
-
-- **Teaching assistant @ ETH Zürich**\
-Course title: Introduction to Physical Oceanography (B.Sc. level)\
-Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper Plattner\
-Spring Semesters 2019, 2020, 2021
+## Teaching & further research experience 
 
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
 <span style="font-weight: 600">van Langen Rosón, A. (2023) </span> - *"Variability of water column denitrification and its drivers in the Eastern Tropical Pacific Oxygen Deficient Zones"*  \
 <span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
 <span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* 
+
+- **Tutor for M.Sc. term paper class @ ETH Zürich**\
+Course title: Term paper (M.Sc. level)\
+Fall Semester 2023
+
+- **Teaching assistant @ ETH Zürich**\
+Course title: Introduction to Physical Oceanography (B.Sc. level)\
+Lecturers: Dr. Matthias Münnich, Prof. Dr. Thomas Frölicher, Dr. Gian-Kasper Plattner\
+Spring Semesters 2019, 2020, 2021
 
 - **Tutor for B.Sc. seminar @ ETH Zürich**\
 Course Title: Biogeochemical Seminar (B.Sc.)\
@@ -90,6 +94,7 @@ ITCP Trieste, Italy
 
 
 ## Outreach and communication
+- Public Talk @ Patagonia/Impact Hub Zurich (Nov. 2023), titled "The resourceful ocean - our strained service provider"
 - Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars)\
 a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
 running from 2018 to 2021
