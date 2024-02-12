@@ -7,6 +7,8 @@ author_profile: true
 tagline: " "
 header:
     image: /assets/images/blackboard_2.jpg
+  caption: "Credits: E.E. Köhn"
+
 ---
 
 ## Journal articles (published)
