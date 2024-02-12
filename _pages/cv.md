@@ -95,6 +95,7 @@ ITCP Trieste, Italy
 
 ## Outreach and communication
 - Public Talk @ Patagonia/Impact Hub Zurich (Nov. 2023), titled "The resourceful ocean - our strained service provider"
+- ETH Zukunftstag (2019, 2021, 2023): Conducting and supporting CO2 experiment for school-children using infrared cameras
 - Co-organizer and moderation of ["EBUS Webinars"](https://ebuswebinars.wixsite.com/ebuswebinars)\
 a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
 running from 2018 to 2021
