@@ -7,7 +7,7 @@ permalink: /cv/
 tagline: " "
 header:
     image: /assets/images/kiel_fjord_cropped_2.jpg
-    caption: "Credits: Eike Köhn, [**Kiel Fjord, Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
+    caption: "Credits: E.E. Köhn, [**Kiel Fjord, Germany**](https://www.openstreetmap.org/#map=18/54.32997/10.14853)"
 ---
 
 ## Academic positions and education
