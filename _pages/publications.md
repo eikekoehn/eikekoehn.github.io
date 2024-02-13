@@ -10,7 +10,7 @@ header:
 
 ---
 
-## Published journal articles and theses
+## Journal articles (published)
 
 - **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N. (2024). On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 129, e2023JC020063 [doi:10.1029/2023JC020063](https://doi.org/10.1029/2023JC020063)
 
@@ -20,7 +20,7 @@ header:
 
 - **Köhn, E. E.**, Thomsen, S., Arévalo-Martínez, D. L., and Kanzow, T. (2017). Submesoscale CO<sub>2</sub> variability across an upwelling front off Peru. *Ocean Science*, 13, 1017–1033, [doi:10.5194/os-13-1017-2017](https://doi.org/10.5194/os-13-1017-2017)
 
-## Journal articles (in  preparation)
+## Journal articles (in preparation)
 
 - **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N. (*in preparation*): Future projections of physical and biogeochemical marine extreme events in the California Current System.
 
@@ -32,6 +32,7 @@ header:
 
 - **Köhn, E. E.** (2018). Ventilation of oxygen minimum zones by geostrophic turbulence in a shallow water model. M.Sc. Thesis, Uni Kiel/GOMAR, Germany [https://oceanrep.geomar.de/id/eprint/59773/](https://oceanrep.geomar.de/id/eprint/59773/)
 
+- **Köhn, E. E.** (2014). Kleinskalige Variabilität in einem Gebiet pemanenten Auftriebs vor der Küste Perus. B.Sc. Thesis, Uni Kiel/GOMAR, Germany [https://oceanrep.geomar.de/id/eprint/26833/](https://oceanrep.geomar.de/id/eprint/26833/)
 
 ## Comments and Spotlights
 
