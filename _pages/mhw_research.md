@@ -32,6 +32,6 @@ As the intensity and frequency of MHWs has increased over the last decades, and 
 </figure>
 
 In my research, I try to fill this knowledge gap and extend the view on MHWs beyond the sea surface. 
-In [Köhn et al. (2024)](https://doi.org/10.1029/2023JC020063), I rely on data from high resolution regional ocean model simulations to analyze the vertical extent and vertical propagation behavior of MHWs in Eastern Pacific. I find that by moving into the subsurface MHWs can last significantly longer than diagnosed from SST data only. 
+In [Köhn et al. (2024)](https://doi.org/10.1029/2023JC020063), I rely on data from a high resolution regional ocean model simulation to analyze the vertical extent and vertical propagation behavior of MHWs in Eastern Pacific. I find that by moving into the subsurface MHWs can last significantly longer than diagnosed from SST data only. 
 
 +++++++++++++ Page under construction (bibliography etc.) +++++++++++++
