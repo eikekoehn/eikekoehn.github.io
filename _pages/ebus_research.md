@@ -20,6 +20,6 @@ usemathjax: true
   type="text/javascript">
 </script>
 
-**Eastern Boundary Upwelling Systems (EBUS)** are highly productive regions on the eastern sides of most ocean basins, contributing to about 10% of marine fish catch, despite making up only 1% of the global ocean.
+**Eastern Boundary Upwelling Systems (EBUS)** are distinct regions on the eastern sides of most ocean basins, marked by a winddriven upward movement of waters. The most iconic of these EBUS are found along the coast of California, Peru/Chile, Mauretania/Senegal, Namibia and western India. These regions are generally marked by relatively cold surface waters, as the upward water movement, i.e., the upwelling, transports colder subsurface waters to the surface. As these cold subsurface waters are also enriched in nutrients, the upwelling brings these nutrients to the sunlit surface ocean, where phytoplankton species can utilize them to build up organic matter through photosynthesis. This high availability of organic matter sustains very productive and diverse ecosystems, from which humans strongly benefit. EBUS contribute to about 10% of marine fish catch, despite making up only 1% of the global ocean.
 
-+++++++++++++ Page under construction +++++++++++++
++++++++++++++ Page under construction (bibliography etc.) +++++++++++++
