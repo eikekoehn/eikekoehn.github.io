@@ -93,7 +93,6 @@ Congressi Stefano Franscini, Monte Verità, Ascona, Switzerland
 Jul 15-19, 2019\
 ITCP Trieste, Italy
 
-
 ## Outreach and communication
 - Public Talk @ Patagonia/Impact Hub Zurich (Nov. 2023), titled "The resourceful ocean - our strained service provider"
 - ETH Zukunftstag (2019, 2021, 2023): Conducting and supporting CO2 experiment for school-children using infrared cameras
@@ -101,6 +100,11 @@ ITCP Trieste, Italy
 a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBUS)\
 running from 2018 to 2021
 
+## Reviewer activity
+Reviews of scientific articles in the following journals:
+- Biogeosciences
+- Nature Communications Earth & Environment
+- Journal of Physical Oceanography
 
 ## Research Cruises
 - **M131**: Recife, Brazil - Walvis Bay, Namibia,\
