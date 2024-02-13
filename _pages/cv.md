@@ -101,7 +101,7 @@ a bi-weekly to monthly webinar series on Eastern Boundary Upwelling Systems (EBU
 running from 2018 to 2021
 
 ## Reviewer activity
-Reviews of scientific articles in the following journals:
+Reviewing of scientific articles for the following journals:
 - Nature Communications Earth & Environment
 - Journal of Physical Oceanography
 - Biogeosciences
