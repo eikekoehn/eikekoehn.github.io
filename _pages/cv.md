@@ -102,9 +102,9 @@ running from 2018 to 2021
 
 ## Reviewer activity
 Reviews of scientific articles in the following journals:
-- Biogeosciences
 - Nature Communications Earth & Environment
 - Journal of Physical Oceanography
+- Biogeosciences
 
 ## Research Cruises
 - **M131**: Recife, Brazil - Walvis Bay, Namibia,\
