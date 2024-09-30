@@ -102,6 +102,7 @@ running from 2018 to 2021
 
 ## Reviewer activity
 Reviewing of scientific articles for the following journals:
+- Nature Communications
 - Nature Communications Earth & Environment
 - Journal of Physical Oceanography
 - Biogeosciences
