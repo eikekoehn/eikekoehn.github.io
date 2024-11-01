@@ -13,6 +13,8 @@ header:
 
 ## Journal articles (published)
 
+- **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (in review). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *Ocean Science*, 20, 1281–1290, [doi:10.5194/10.5194/os-20-1281-2024](https://doi.org/10.5194/os-20-1281-2024)
+
 - **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N. (2024). On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 129, e2023JC020063 [doi:10.1029/2023JC020063](https://doi.org/10.1029/2023JC020063)
 
 - **Köhn, E. E.**, Münnich, M., Vogt, M., Desmet, F., and Gruber, N. (2022). Strong Habitat Compression by Extreme Shoaling Events of Hypoxic Waters in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 127(6), e2022JC018429, [doi:10.1029/2022JC018429](https://doi.org/10.1029/2022JC018429)
@@ -22,9 +24,9 @@ header:
 - **Köhn, E. E.**, Thomsen, S., Arévalo-Martínez, D. L., and Kanzow, T. (2017). Submesoscale CO<sub>2</sub> variability across an upwelling front off Peru. *Ocean Science*, 13, 1017–1033, [doi:10.5194/os-13-1017-2017](https://doi.org/10.5194/os-13-1017-2017)
 
 
-## Journal articles (in review)
+<!-- ## Journal articles (in review)
 
-- **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (in review). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *EGUsphere* [doi:10.5194/egusphere-2024-2007](https://doi.org/10.5194/egusphere-2024-2007)
+- **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (in review). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *EGUsphere* [doi:10.5194/egusphere-2024-2007](https://doi.org/10.5194/egusphere-2024-2007) -->
  
 
 ## Journal articles (in preparation)
