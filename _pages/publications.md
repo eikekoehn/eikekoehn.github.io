@@ -13,7 +13,7 @@ header:
 
 ## Journal articles (published)
 
-- **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (in review). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *Ocean Science*, 20, 1281–1290, [doi:10.5194/10.5194/os-20-1281-2024](https://doi.org/10.5194/os-20-1281-2024)
+- **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (2024). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *Ocean Science*, 20, 1281–1290, [doi:10.5194/10.5194/os-20-1281-2024](https://doi.org/10.5194/os-20-1281-2024)
 
 - **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N. (2024). On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 129, e2023JC020063 [doi:10.1029/2023JC020063](https://doi.org/10.1029/2023JC020063)
 
