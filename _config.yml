@@ -98,8 +98,8 @@ author:
   name             : "Eike E. Köhn"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "(Physical) Oceanographer &\nClimate Scientist"
-  location         : "Zurich, Switzerland"
-  email            : "eike.koehn@usys.ethz.ch"
+  location         : "Paris, France"
+  email            : "eike.koehn@locean.ipsl.fr"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
