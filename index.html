@@ -23,6 +23,21 @@ header:
   padding: 20px;
   color: white;
 }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Closable button inside the image */
+.closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
 ---
 
 <p>Hi there, my name is Eike and I am a <a href=./cv>physical oceanographer by training</a>, who has ventured into the world of marine biogeochemistry. I am currently working as a Postdoctoral researcher at <a href="https://www.locean.ipsl.fr/">LOCEAN</a>, where I investigate <a href="https://www.tipesm.eu/">tipping points in Earth System Models</a>. Before coming to Paris, I did my PhD at ETH Zurich on <a href=./research>marine extreme events</a>, such as marine heatwaves and extreme oxygen minimum zone variability.</p> 
