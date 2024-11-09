@@ -102,7 +102,7 @@ author:
   email            : "eike.koehn@locean.ipsl.fr"
   links:
     - label: "Website"
-      icon: "fa-solid fa-globe"
+      icon: "fab fa-fw fa-globe"
       url: "https://usys.ethz.ch/personen/profil.MjUxNDM1.TGlzdC82MzcsMzIwMTk3MjIy.html"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate" # "fas fa-fw fa-link"
