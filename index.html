@@ -7,60 +7,62 @@ tagline: " "
 header:
     image: /assets/images/header_image_cropped_2.jpg
     caption: "79°N Glacier, [**Greenland**](https://www.openstreetmap.org/#map=8/79.577/-18.896), Credit: PS100"
-header row:
-
-<!-- /* The grid: Three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 50px;
-  text-align: center;
-  font-size: 25px;
-  cursor: pointer;
-  color: white;
-}
-
-.containerTab {
-  padding: 20px;
-  color: white;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Closable button inside the image */
-.closebtn {
-  float: right;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-} -->
+feature_row:
+- image_path: /assets/images/max-gotts-6-wZzd2hCOs-unsplash-2.jpg
+  image_caption: "Credits: Max Gotts, [Unsplash](https://unsplash.com/photos/6-wZzd2hCOs)"
+  title: "Oxygen Minimum Zone (OMZ) variability"
+  excerpt: "Understanding OMZ variability and its implications for marine life."
+  url: "/omz_research/"
+  btn_label: "Read More"
+  btn_class: "btn--primary" #"btn--secondar"
+- image_path: /assets/images/mhw_sketch_cropped.jpg
+  image_caption: "Credits: E.E. Köhn"
+  title: "Marine Heatwaves (MHWs)"
+  excerpt: "Understanding how MHWs affect the upper ocean also beyond the sea surface."
+  url: "/mhw_research/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+- image_path: /assets/images/lone_cypress2.jpg
+  image_caption: "Credits: E.E. Köhn, [**Lone Cypress**](https://www.openstreetmap.org/#map=18/36.56922/-121.96568)"
+  title: "Eastern Boundary Upwelling Systems (EBUS)"
+  excerpt: "Understanding the physics and biogeochemistry of highly productive EBUS."
+  url: "/ebus_research/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
 ---
 
-<p>Hi there, my name is Eike and I am a <a href=./cv>physical oceanographer by training</a>, who has ventured into the world of marine biogeochemistry. I am currently working as a Postdoctoral researcher at <a href="https://www.locean.ipsl.fr/">LOCEAN</a>, where I investigate <a href="https://www.tipesm.eu/">tipping points in Earth System Models</a>. Before coming to Paris, I did my PhD at ETH Zurich on <a href=./research>marine extreme events</a>, such as marine heatwaves and extreme oxygen minimum zone variability.</p> 
+<p>Hi there, my name is Eike and I am a <a href=./cv>physical oceanographer by training</a>, who has ventured into the world of marine biogeochemistry. I am currently working as a Postdoctoral researcher at <a href="https://www.locean.ipsl.fr/">LOCEAN</a>, where I investigate <a href="https://www.tipesm.eu/">tipping points in Earth System Models</a>. Before coming to Paris, I did my PhD at ETH Zurich (in the group of Prof. Nicolas Gruber) on <a href=./research>marine extreme events</a>, such as marine heatwaves and extreme oxygen minimum zone variability.</p> 
 
 <p>On this website you can find information about:</p>
-  <!-- <div class="row">
-    <div class="column" onclick="openTab('b1');" style="background:green;">CV</div>
-    <div class="column" onclick="openTab('b2');" style="background:blue;">Research interests</div>
-    <div class="column" onclick="openTab('b3');" style="background:red;">Publications</div>
-  </div> -->
-
-  <!-- <div class="row">
-    <div class="column"></div>
-      <img  src="/assets/images/kiel_fjord_cropped.jpg" alt="CV" />
-    <div class="column"></div>
-      <img  src="/assets/images/coast_with_sailboat_cropped.jpg" alt="Research_interests" />
-    <div class="column"></div>
-      <img  src="/assets/images/blackboard_2.jpg" alt="Publications" />
-  </div> -->
-
-  <!-- <ul>
+  <ul>
     <li><a href=./cv>my scientific background and path</a> </li>
     <li><a href=./research>my research interests</a></li>
     <li><a href=./publications>an overview over my publications.</a></li>
-  </ul> -->
+  </ul>
+
+  <!-- The grid: three columns -->
+  <div class="row">
+    <div class="column" onclick="openTab('b1');" style="background:green;">Box 1</div>
+    <div class="column" onclick="openTab('b2');" style="background:blue;">Box 2</div>
+    <div class="column" onclick="openTab('b3');" style="background:red;">Box 3</div>
+  </div>
+
+  <!-- The expanding grid (hidden by default) -->
+  <div id="b1" class="containerTab" style="display:none;background:green">
+    <!-- If you want the ability to close the container, add a close button -->
+    <span onclick="this.parentElement.style.display='none'" class="closebtn">x</span>
+    <h2>Box 1</h2>
+    <p>Lorem ipsum..</p>
+  </div>
+
+  <div id="b2" class="containerTab" style="display:none;background:blue">
+    <span onclick="this.parentElement.style.display='none'" class="closebtn">x</span>
+    <h2>Box 2</h2>
+    <p>Lorem ipsum..</p>
+  </div>
+
+  <div id="b3" class="containerTab" style="display:none;background:red">
+    <span onclick="this.parentElement.style.display='none'" class="closebtn">x</span>
+    <h2>Box 3</h2>
+    <p>Lorem ipsum..</p>
+  </div>
