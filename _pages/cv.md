@@ -11,7 +11,13 @@ header:
 ---
 
 ## Academic positions and education
-- **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - present)\
+
+- **Postdoctoral researcher** @ LOCEAN, CNRS/IPSL, France (November 2024 - present)\
+<span style="font-weight: 600">Topic: </span> *"Tipping points in Earth System Models"*\
+<span style="font-weight: 600">Project: </span><a href=tipesm.eu>TipESM<\a>
+
+
+- **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - September 2024)\
 <span style="font-weight: 600">Topic: </span> *"Marine extreme events in present and future climates"*\
 <span style="font-weight: 600">Supervisor: </span>Prof. Dr. Nicolas Gruber
 
