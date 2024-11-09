@@ -101,8 +101,8 @@ author:
   location         : Paris, France
   email            : "eike.koehn@locean.ipsl.fr"
   links:
-    - label: "Location"
-      icon: "das fa-fw fa-link"
+    - label: "Paris, France"
+      icon: "location_on"
       url: "https://www.openstreetmap.org/#map=19/48.858253/2.294497"
     - label: "Website"
       icon: "fas fa-fw fa-link"
