@@ -9,64 +9,62 @@ header:
     caption: "79°N Glacier, [**Greenland**](https://www.openstreetmap.org/#map=8/79.577/-18.896), Credit: PS100"
 ---
 
-<head>
-    <!-- <meta charset="UTF-8"> -->
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
-    <title>Three Column Card Row</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f8f9fa;
-        }
-        .row {
-            display: flex;
-            justify-content: space-around;
-            width: 80%;
-        }
-        .card {
-            width: 30%;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            text-align: center;
-            padding: 20px;
-        }
-        .card img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px 8px 0 0;
-        }
-        .card-title {
-            margin-top: 15px;
-            font-size: 1.25em;
-            font-weight: bold;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
 
-<div class="row">
-    <div class="card">
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-item">
+      <div class="card">
         <img src="https://via.placeholder.com/300x200" alt="Image 1">
         <div class="card-title">Card Title 1</div>
+      </div>
     </div>
-    <div class="card">
+    <div class="grid-item">
+      <div class="card">
         <img src="https://via.placeholder.com/300x200" alt="Image 2">
         <div class="card-title">Card Title 2</div>
+      </div>
     </div>
-    <div class="card">
+    <div class="grid-item">
+      <div class="card">
         <img src="https://via.placeholder.com/300x200" alt="Image 3">
         <div class="card-title">Card Title 3</div>
+      </div>
     </div>
+  </div>
 </div>
 
-</body>
+<style>
+.grid-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.grid-row {
+    display: flex;
+    gap: 20px;
+}
+.grid-item {
+    flex: 1;
+    max-width: 300px;
+}
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    overflow: hidden;
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card-title {
+    padding: 10px;
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #333;
+}
+</style>
 
 <p>Hi there, my name is Eike and I am a <a href=./cv>physical oceanographer by training</a>, who has ventured into the world of marine biogeochemistry. I am currently working as a Postdoctoral researcher at <a href="https://www.locean.ipsl.fr/">LOCEAN</a>, where I investigate <a href="https://www.tipesm.eu/">tipping points in Earth System Models</a>. Before coming to Paris, I did my PhD at <a href="https://www.up.ethz.ch/">ETH Zurich</a> on <a href=./research>marine extreme events</a>, such as marine heatwaves and extreme oxygen minimum zone variability.</p> 
 
