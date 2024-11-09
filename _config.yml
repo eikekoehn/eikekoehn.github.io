@@ -98,11 +98,10 @@ author:
   name             : "Eike E. Köhn"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Oceanographer & Climate Scientist"
-  location         : Paris, France
   email            : "eike.koehn@locean.ipsl.fr"
   links:
     - label: "Paris, France"
-      icon: "location_on"
+      icon: "fa-solid fa-location-dot"
       url: "https://www.openstreetmap.org/#map=19/48.858253/2.294497"
     - label: "Website"
       icon: "fas fa-fw fa-link"
