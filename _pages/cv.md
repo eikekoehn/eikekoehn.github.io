@@ -14,7 +14,7 @@ header:
 
 - **Postdoctoral researcher** @ LOCEAN, CNRS/IPSL, France (November 2024 - present)\
 <span style="font-weight: 600">Topic: </span> *"Tipping points in Earth System Models"*\
-<span style="font-weight: 600">Project: </span><a href=tipesm.eu>TipESM<\a>
+<span style="font-weight: 600">Project: </span> [TipESM](https://www.tipesm.eu)
 
 
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - September 2024)\
