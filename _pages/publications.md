@@ -50,6 +50,10 @@ header:
 
 ## Latest Conference Contributions (Talks and Posters)
 
+- April 2025: on-site Talk @ **European Geophysical Union (EGU) General Assembly**, Vienna, Austria.\
+*How reversible are carbonate chemistry changes
+	triggered by future Arctic sea ice loss?* [doi:10.5194/egusphere-egu25-17101](https://doi.org/10.5194/egusphere-egu25-17101)
+
 - May 2024: on-site Talk @ **55th International Liège Colloquium on Ocean Dynamics**, Liège, Belgium.\
 *The future of marine heatwaves and biogeochemical extremes in the California Current System* 
 
