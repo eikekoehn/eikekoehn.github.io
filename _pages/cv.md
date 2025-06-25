@@ -13,7 +13,7 @@ header:
 ## Academic positions and education
 
 - **Postdoctoral researcher** @ LOCEAN, IPSL/CNRS, France (November 2024 - present)\
-<span style="font-weight: 600">Topic: </span> *"Tipping points in Earth System Models"*\
+<span style="font-weight: 600">Topic: </span> *"Exploring biogeochemical and physical tipping points in Earth System Models"*\
 <span style="font-weight: 600">Project: </span> [EU project TipESM](https://www.tipesm.eu)
 
 
@@ -49,7 +49,11 @@ header:
 
 ## Teaching & further research experience 
 
+- **Co-supervision of M.Sc. stage M1 @ LOCEAN, Sorbonne Université**\
+<span style="font-weight: 600">Greff, A. (2025) </span> - *"Exploration de la stabilité de l'AMOC en climat chaud"*  \
+
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
+<span style="font-weight: 600">Pfaeffli, F. (2025) </span> - *"Projections of Ocean Acidification Extremes in the California Current System"*  \
 <span style="font-weight: 600">van Langen Rosón, A. (2023) </span> - *"Variability of water column denitrification and its drivers in the Eastern Tropical Pacific Oxygen Deficient Zones"*  \
 <span style="font-weight: 600">Perreten, J. (2021) </span> - *"Model analysis of ocean compound extreme events in the North-Eastern Pacific"* \
 <span style="font-weight: 600">Meiler, S. (2019) </span> - *"Ocean oxygen extreme events in the Eastern Tropical Pacific"* 
