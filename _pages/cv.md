@@ -50,7 +50,7 @@ header:
 ## Teaching & further research experience 
 
 - **Co-supervision of M.Sc. stage M1 @ LOCEAN, Sorbonne Université**\
-<span style="font-weight: 600">Greff, A. (2025) </span> - *"Exploration de la stabilité de l'AMOC en climat chaud"*  \
+<span style="font-weight: 600">Greff, A. (2025) </span> - *"Exploration de la stabilité de l'AMOC en climat chaud"*
 
 - **Co-supervision of M.Sc. Theses @ ETH Zürich**\
 <span style="font-weight: 600">Pfaeffli, F. (2025) </span> - *"Projections of Ocean Acidification Extremes in the California Current System"*  \
