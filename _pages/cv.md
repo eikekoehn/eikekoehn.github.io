@@ -14,7 +14,7 @@ header:
 
 - **Postdoctoral researcher** @ LOCEAN, IPSL/CNRS, France (November 2024 - present)\
 <span style="font-weight: 600">Topic: </span> *"Exploring biogeochemical and physical tipping points in Earth System Models"*\
-<span style="font-weight: 600">Project: </span> [EU project TipESM](https://www.tipesm.eu)
+<span style="font-weight: 600">Project: </span> [EU project TipESM](https://www.tipesm.eu)\
 <span style="font-weight: 600">Supervisors: </span>Dr. Juliette Mignot, Dr. Lester Kwiatkowski, Dr. Guillaume Gastineau
 
 - **Postdoctoral researcher** @ ETH Zurich, Switzerland (April 2023 - September 2024)\
