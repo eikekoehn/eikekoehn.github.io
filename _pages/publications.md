@@ -52,6 +52,9 @@ header:
 
 ## Latest Conference Contributions (Talks and Posters)
 
+- May 2026: webinar Talk @ BGC-Argo Science seminar (5/26) \
+*Persistence of Arctic Ocean acidification under negative emissions*
+
 - February 2026: on-site Talk @ **Ocean Sciences Meeting 2026**, Glasgow, Scotland.\
 *Delayed reversibility of Arctic Ocean acidification under negative emissions* 
 
