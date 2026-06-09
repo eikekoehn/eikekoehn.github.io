@@ -13,6 +13,8 @@ header:
 
 ## Journal articles (published)
 
+- Athanase, M., Gou, R., **Köhn, E. E.**, Richaud, B., Simon, A. (2026) Polar processes set Arctic marine heatwaves apart. *Communications Earth & Environment*, 7, 485, [doi:10.1038/s43247-026-03735-1](https://doi.org/10.1038/s43247-026-03735-1) 
+
 - **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (2024). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *Ocean Science*, 20, 1281–1290, [doi:10.5194/10.5194/os-20-1281-2024](https://doi.org/10.5194/os-20-1281-2024)
 
 - **Köhn, E. E.**, Vogt, M., Münnich, M., Gruber, N. (2024). On the vertical structure and propagation of marine heatwaves in the Eastern Pacific. *Journal of Geophysical Research: Oceans*, 129, e2023JC020063 [doi:10.1029/2023JC020063](https://doi.org/10.1029/2023JC020063)
@@ -49,6 +51,9 @@ header:
 - Derouin, S. (2022). Short-term events can shrink the habitable zone in oceans. *EOS*, 103, [doi:10.1029/2022EO220388](https://doi.org/10.1029/2022EO220388)
 
 ## Latest Conference Contributions (Talks and Posters)
+
+- February 2026: on-site Talk @ **Ocean Sciences Meeting 2026**, Glasgow, Scotland.\
+*Delayed reversibility of Arctic Ocean acidification under negative emissions* 
 
 - April 2025: on-site Talk @ **European Geophysical Union (EGU) General Assembly**, Vienna, Austria.\
 *How reversible are carbonate chemistry changes
