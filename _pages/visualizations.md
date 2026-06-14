@@ -7,7 +7,7 @@ author_profile: true
 tagline: " "
 header:
     #image: /assets/images/north_atlantic_3D_shaded_T.png
-    image: /assets/videos/animation_T.mp4
+    video: /assets/videos/animation_T.mp4
 
 ---
 
