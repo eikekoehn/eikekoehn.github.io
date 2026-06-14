@@ -5,12 +5,15 @@ title: Scientific visualizations
 permalink: /visualizations/
 author_profile: true
 tagline: " "
-header:
-    #image: /assets/images/north_atlantic_3D_shaded_T.png
-    video: /assets/videos/animation_T.mp4
-
+#header:
+#    #image: /assets/images/north_atlantic_3D_shaded_T.png
+#    video: /assets/videos/animation_T.mp4
 ---
 
+<video autoplay muted loop playsinline controls width="100%">
+  <source src="/assets/videos/animation_T.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <div class="grid-container">
   <div class="grid-row">
