@@ -8,6 +8,8 @@ main:
      url: https://eikekoehn.github.io/research
    - title: "Publications"
      url: https://eikekoehn.github.io/publications
+   - title: "Visualizations"
+     url: https://eikekoehn.github.io/visualizations
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
