@@ -47,7 +47,7 @@ tagline: " "
 <div class="grid-container">
   <div class="grid-row">
     <div class="grid-item">
-      <a href="_pages/animations/woa2023.html" class="card-link" target="_blank">
+      <a href="./../_pages/animations/woa2023.html" class="card-link" target="_blank">
         <div class="card">
           <img src="/assets/images/north_atlantic_3D_shaded_T.png" alt="North Atlantic temperatures">
           <div class="card-title">
