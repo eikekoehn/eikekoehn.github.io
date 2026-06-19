@@ -49,6 +49,9 @@ header:
 
 ## Teaching & further research experience 
 
+- **Supervision of M.Sc. stage M2 @ LOCEAN, Sorbonne Université**\
+<span style="font-weight: 600">Girot, A. (2026) </span> - *"Can ocean deoxygenation be reversed under negative emissions?"*
+
 - **Co-supervision of M.Sc. stage M1 @ LOCEAN, Sorbonne Université**\
 <span style="font-weight: 600">Greff, A. (2025) </span> - *"Exploration de la stabilité de l'AMOC en climat chaud"*
 
