@@ -12,7 +12,7 @@ header:
 
 ## Academic positions and education
 
-- **Postdoctoral researcher** @ LOCEAN, IPSL/CNRS, France (November 2024 - present)\
+- **Postdoctoral researcher** @ LOCEAN-IPSL, Sorbonne Université-CNRS-IRD-MNHN, France (November 2024 - present)\
 <span style="font-weight: 600">Topic: </span> *"Exploring biogeochemical and physical tipping points in Earth System Models"*\
 <span style="font-weight: 600">Project: </span> [EU project TipESM](https://www.tipesm.eu)\
 <span style="font-weight: 600">Supervisors: </span>Dr. Juliette Mignot, Dr. Lester Kwiatkowski, Dr. Guillaume Gastineau
