@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "Eike E. Köhn"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Oceanographer & Climate Scientist"
   location         : Paris, France
   email            : "eike.koehn@locean.ipsl.fr"
