@@ -42,6 +42,22 @@
     width: 100%;
     height: auto;
     }
+
+    .video-row {
+    text-align: center;
+    margin: 2rem auto;
+    }
+
+    .video-row video {
+    width: 80vw;
+    max-width: 1000px;
+    height: auto;
+    }
+
+    .video-row figcaption {
+    margin-top: 0.8rem;
+    font-style: italic;
+    }
   </style>
 </head>
 <body>
@@ -57,26 +73,27 @@
     <figcaption><b>Fig. 1: </b>Sea surface temperature anomalies on June 27, 2026 (relative to 1991-2020 climatology). Based on OISSTv2.1 data (Huang et al., 2020; Banzon et al., 2016; Reynolds et al., 2007).</figcaption>
   </figure>
 
-  <h2 style="margin-top: 3rem;">The marine heatwaves in the Mediterranean Sea</h2>
+  <h2 style="margin-top: 3rem;">The conditions in the Mediterranean Sea</h2>
 
-  <div class="video-row">
+  <figure class="video-row">
     <video src="/assets/videos/timeseries_sst_anomaly_french_mediterranean_doy_2026.mp4" controls autoplay></video>
-  </div>
+    <figcaption><b>Anim. 1:</b> Evolution of 2026 sea surface temperatures in the Mediterranean Sea, averaged over the region 3-9°E, 40-45°N (indicated by white box in inset map). Included are the time series of the mean climatology (1991-2020), the seasonally varying 90th percentile extreme threshold (same baseline, following Hobday et al., 2016), the temperature evolution for 2025 and 2026.</figcaption>
+  </figure>
 
   <div class="figure-container">
     <figure>
       <img src="/assets/images/med_sea_french_mediterranean_mean_june_mean_anomalies_rel_to_1991_2020.png" alt="Figure 1">
-      <figcaption>Figure 1. First figure.</figcaption>
+      <figcaption><b>Fig 2a: </b>Mean June temperature anomalies relative to the 1991-2020 climatology recorded in the Mediterranean Sea area outlined in the animation above (3-9°E, 40-45°N).</figcaption>
     </figure>
   
     <figure>
       <img src="/assets/images/med_sea_french_mediterranean_mean_june_max.png" alt="Figure 2">
-      <figcaption>Figure 2. Second figure.</figcaption>
+      <figcaption><b>Fig 2b: </b>Maximum June temperatures averaged over the Mediterranean Sea area outlined in the animation above (3-9°E, 40-45°N).</figcaption>
     </figure>
   
   </div>
 
-  <h2 style="margin-top: 3rem;">The marine heatwaves on the Atlantic Coast</h2>
+  <h2 style="margin-top: 3rem;">The conditions on the Atlantic Coast</h2>
 
   <div class="video-row">
     <video src="/assets/videos/timeseries_sst_anomaly_french_atlantic_doy_2026.mp4" controls autoplay></video>
