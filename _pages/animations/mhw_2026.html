@@ -25,6 +25,23 @@
       max-width: 1000px;
       border-radius: 6px;
     }
+
+    .figure-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;            /* space between figures */
+    margin: 2rem auto;
+    }
+
+    .figure-container figure {
+    width: 45%;
+    text-align: center;
+    }
+
+    .figure-container img {
+    width: 100%;
+    height: auto;
+    }
   </style>
 </head>
 <body>
@@ -44,6 +61,19 @@
 
   <div class="video-row">
     <video src="/assets/videos/timeseries_sst_anomaly_french_mediterranean_doy_2026.mp4" controls autoplay></video>
+  </div>
+
+  <div class="figure-container">
+    <figure>
+      <img src="/assets/images/med_sea_french_mediterranean_mean_june_mean_anomalies_rel_to_1991_2020.png" alt="Figure 1">
+      <figcaption>Figure 1. First figure.</figcaption>
+    </figure>
+  
+    <figure>
+      <img src="/assets/images/med_sea_french_mediterranean_mean_june_max.png" alt="Figure 2">
+      <figcaption>Figure 2. Second figure.</figcaption>
+    </figure>
+  
   </div>
 
   <h2 style="margin-top: 3rem;">The marine heatwaves on the Atlantic Coast</h2>
