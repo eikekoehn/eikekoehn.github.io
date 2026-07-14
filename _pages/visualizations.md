@@ -59,6 +59,21 @@ tagline: " "
   </div>
 </div>
 
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-item">
+      <a href="./../_pages/animations/mhw_2026.html" class="card-link" target="_blank">
+        <div class="card">
+          <img src="/assets/images/timeseries_french_atlantic.png" alt="Sea surface temperature off of France (Atlantic)">
+          <div class="card-title">
+            The marine heatwaves off of France in 2026
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
 
 <style>
 .grid-container {

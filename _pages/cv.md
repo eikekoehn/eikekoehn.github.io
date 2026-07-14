@@ -119,6 +119,8 @@ Reviewing of scientific articles for the following journals:
 - Nature Communications Earth & Environment
 - Journal of Physical Oceanography
 - Biogeosciences
+- Earth System Dynamics
+- Climate Dynamics
 
 ## Research Cruises
 - **M131**: Recife, Brazil - Walvis Bay, Namibia,\
