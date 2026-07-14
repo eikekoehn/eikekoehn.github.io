@@ -57,9 +57,9 @@ tagline: " "
       </a>
     </div>
     <div class="grid-item">
-      <a href="./../assets/images/french_map_anomaly_2026_06_27.png" class="card-link" target="_blank">
+      <a href="./../_pages/animations/mhw_2026.html" class="card-link" target="_blank">
         <div class="card">
-          <img src="/assets/images/timeseries_french_atlantic.png" alt="Sea surface temperature off of France (Atlantic)">
+          <img src="/assets/images/french_map_anomaly_2026_06_27.png" alt="Sea surface temperature anomalies off of France">
           <div class="card-title">
             The marine heatwaves off of France in 2026
           </div>
