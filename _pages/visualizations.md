@@ -56,11 +56,6 @@ tagline: " "
         </div>
       </a>
     </div>
-  </div>
-</div>
-
-<div class="grid-container">
-  <div class="grid-row">
     <div class="grid-item">
       <a href="./../_pages/animations/mhw_2026.html" class="card-link" target="_blank">
         <div class="card">
