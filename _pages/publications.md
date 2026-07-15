@@ -31,11 +31,11 @@ header:
 - **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (in review). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *EGUsphere* [doi:10.5194/egusphere-2024-2007](https://doi.org/10.5194/egusphere-2024-2007) -->
  
 
-## Journal articles (in preparation)
+## Journal articles (in review)
 
-- **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N. (*in preparation*): Future projections of physical and biogeochemical marine extreme events in the California Current System.
+- **Köhn, E. E.**, Kwiatkowski, L., Mignot, J., Gastineau, G., Torres, O., Orr, J. C. (*in review*): Persistence of Arctic Ocean acidification under negative emissions.
 
-- **Köhn, E. E.**, Vogt, M., Münnich, M., & Gruber, N. (*in preparation*). Towards monitoring subsurface marine heatwaves based on sea surface properties in the Eastern Pacific.
+- **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N. (*in review*): End-of-century marine heatwaves in the California Current System.
 
 
 ## Theses
