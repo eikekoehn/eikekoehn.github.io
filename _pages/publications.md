@@ -13,6 +13,8 @@ header:
 
 ## Journal articles (published)
 
+- **Köhn, E. E.**, Kwiatkowski, L., Mignot, J., Gastineau, G., Torres, O., Orr, J. C. (2026): Persistence of Arctic Ocean acidification under negative emissions. *Nature Climate Change* [doi:10.1038/s41558-026-02715-9](https://doi.org/10.1038/s41558-026-02715-9)
+
 - Athanase, M., Gou, R., **Köhn, E. E.**, Richaud, B., Simon, A. (2026) Polar processes set Arctic marine heatwaves apart. *Communications Earth & Environment*, 7, 485, [doi:10.1038/s43247-026-03735-1](https://doi.org/10.1038/s43247-026-03735-1) 
 
 - **Köhn, E. E.**, Greatbatch, R. J., Brandt, P., Claus, M. (2024). The formation and ventilation of an Oxygen Minimum Zone in a simple model for latitudinally alternating zonal jets. *Ocean Science*, 20, 1281–1290, [doi:10.5194/10.5194/os-20-1281-2024](https://doi.org/10.5194/os-20-1281-2024)
@@ -33,7 +35,6 @@ header:
 
 ## Journal articles (in review)
 
-- **Köhn, E. E.**, Kwiatkowski, L., Mignot, J., Gastineau, G., Torres, O., Orr, J. C. (*in review*): Persistence of Arctic Ocean acidification under negative emissions.
 
 - **Köhn, E. E.**, Eirund, G., Münnich, M., & Gruber, N. (*in review*): End-of-century marine heatwaves in the California Current System.
 
