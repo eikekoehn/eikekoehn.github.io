@@ -11,7 +11,7 @@
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-
+  
     .video-row {
       display: flex;
       gap: 20px;
@@ -19,49 +19,55 @@
       flex-wrap: wrap;
       margin-top: 40px;
     }
-
+  
     video {
       width: 80%;
       max-width: 1000px;
       border-radius: 6px;
     }
-
+  
     .figure-container {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;            /* space between figures */
-    margin: 2rem auto;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin: 2rem auto;
     }
-
+  
     .figure-container figure {
-    width: 45%;
-    text-align: center;
+      width: 45%;
+      text-align: center;
     }
-
+  
     .figure-container img {
-    width: 100%;
-    height: auto;
+      width: 100%;
+      height: auto;
     }
-
+  
     .video-row {
-    width: 80vw;
-    max-width: 1000px;
-    margin: 2rem auto;
-    text-align: center;
+      width: 80vw;
+      max-width: 1000px;
+      margin: 2rem auto;
+      text-align: center;
     }
-
+  
+    /* Put multiple videos side by side */
+    .video-row figure {
+      width: calc(50% - 10px);
+      margin: 0;
+      text-align: center;
+    }
+  
     .video-row video {
-    width: 100%;
-    height: auto;
-    display: block;
+      width: 100%;
+      height: auto;
+      display: block;
     }
-
+  
     .video-row figcaption {
-    width: 100%;
-    margin-top: 0.8rem;
-    font-style: italic;
+      width: 100%;
+      margin-top: 0.8rem;
+      font-style: italic;
     }
-    
   </style>
 </head>
 <body>
