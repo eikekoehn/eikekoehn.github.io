@@ -11,82 +11,86 @@
       color: black;
       font-family: Arial, sans-serif;
     }
-
+  
     /* --------------------
-      Image figures
-      -------------------- */
-
-    .figure-container {
-      display: flex;
-      justify-content: center;
-      gap: 2rem;
-      margin: 2rem auto;
-      max-width: 1000px;
-    }
-
-    .figure-container figure {
-      width: 45%;
-      margin: 0;
-      text-align: center;
-    }
-
-    .figure-container img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-
-
-    /* --------------------
-      Side-by-side videos
-      -------------------- */
-
+       Videos
+       -------------------- */
+  
     .video-row {
       display: flex;
+      gap: 20px;
       justify-content: center;
-      gap: 2rem;
+      flex-wrap: wrap;
       width: 80vw;
       max-width: 1000px;
-      margin: 2rem auto;
-    }
-
-    .video-row figure {
-      width: 45%;
-      margin: 0;
+      margin: 40px auto 0;
       text-align: center;
     }
-
+  
+    /* Default video behavior — retained */
+    video {
+      width: 80%;
+      max-width: 1000px;
+      border-radius: 6px;
+    }
+  
     .video-row video {
       width: 100%;
       height: auto;
       display: block;
-      border-radius: 6px;
     }
-
+  
     .video-row figcaption {
       width: 100%;
       margin-top: 0.8rem;
       font-style: italic;
     }
-
-
+  
+    /* Side-by-side videos */
+    .video-row figure {
+      width: 100%;
+      margin: 0;
+      text-align: center;
+    }
+  
+    .video-row:has(figure + figure) figure {
+      width: 45%;
+    }
+  
+  
     /* --------------------
-      Mobile layout
-      -------------------- */
-
+       Image figures
+       -------------------- */
+  
+    .figure-container {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin: 2rem auto;
+    }
+  
+    .figure-container figure {
+      width: 45%;
+      text-align: center;
+    }
+  
+    .figure-container img {
+      width: 100%;
+      height: auto;
+    }
+  
+  
+    /* --------------------
+       Mobile
+       -------------------- */
+  
     @media (max-width: 600px) {
-      .figure-container,
-      .video-row {
+      .video-row:has(figure + figure) {
         flex-direction: column;
         align-items: center;
       }
-
-      .figure-container figure,
-      .video-row figure {
-        width: 100%;
-      }
-
-      .video-row {
+  
+      .video-row:has(figure + figure) figure {
         width: 100%;
       }
     }
@@ -106,13 +110,23 @@
     <figcaption><b>Fig. 1: </b>Sea surface temperature anomalies on June 27, 2026 (relative to 1991-2020 climatology). Based on OISSTv2.1 data (Huang et al., 2020; Banzon et al., 2016; Reynolds et al., 2007). Note the damped temperature anomalies in the polar regions due to the presence of sea ice.</figcaption>
   </figure>
 
-  <figure class="video-row">
-    <video src="/assets/videos/sst_anomaly_global_2026.mp4" controls autoplay></video>
-    <figcaption><b>Anim. 1a:</b> Evolution of global SST anomalies relative to the 1991-2020 climatology.</figcaption>
-
-    <video src="/assets/videos/sst_mhw_category_2026.mp4" controls autoplay></video>
-    <figcaption><b>Anim. 1b:</b> Evolution of global MHW categories as defined by Hobday et al. (2018).</figcaption>    
-  </figure>
+  <div class="video-row">
+    <figure>
+      <video controls>
+        <source src="/assets/videos/sst_anomaly_global_2026.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <figcaption><b>Anim. 1a:</b> Evolution of global SST anomalies relative to the 1991-2020 climatology.</figcaption>
+    </figure>
+  
+    <figure>
+      <video controls>
+        <source src="/assets/videos/sst_mhw_category_2026.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <figcaption><b>Anim. 1b:</b> Evolution of global MHW categories as defined by Hobday et al. (2018).</figcaption>
+    </figure>
+  </div>
 
 
   <h2 style="margin-top: 3rem;">The conditions in the Mediterranean Sea</h2>
