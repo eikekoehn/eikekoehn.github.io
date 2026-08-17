@@ -11,62 +11,110 @@
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-  
+
+    /* --------------------
+      Videos
+      -------------------- */
+
     .video-row {
       display: flex;
       gap: 20px;
       justify-content: center;
       flex-wrap: wrap;
-      margin-top: 40px;
+      width: 80vw;
+      max-width: 1000px;
+      margin: 2rem auto;
+      text-align: center;
     }
-  
+
+    /* Single-video styling */
+    .video-row > video {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* Wider container for rows containing two videos */
+    .video-row:has(figure + figure) {
+      width: 95vw;
+      max-width: 1400px;
+    }
+
+    /* Figures containing the side-by-side videos */
+    .video-row figure {
+      width: calc(50% - 10px);
+      margin: 0;
+      text-align: center;
+    }
+
+    .video-row figure video {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 6px;
+    }
+
+    .video-row figcaption {
+      width: 100%;
+      margin-top: 0.8rem;
+      font-style: italic;
+    }
+
+
+    /* --------------------
+      General video styling
+      -------------------- */
+
     video {
       width: 80%;
       max-width: 1000px;
       border-radius: 6px;
     }
-  
+
+
+    /* --------------------
+      Image figures
+      -------------------- */
+
     .figure-container {
       display: flex;
       justify-content: center;
       gap: 2rem;
       margin: 2rem auto;
     }
-  
+
     .figure-container figure {
       width: 45%;
       text-align: center;
     }
-  
+
     .figure-container img {
       width: 100%;
       height: auto;
     }
-  
-    .video-row {
-      width: 80vw;
-      max-width: 1000px;
-      margin: 2rem auto;
-      text-align: center;
-    }
-  
-    /* Put multiple videos side by side */
-    .video-row figure {
-      width: calc(50% - 10px);
-      margin: 0;
-      text-align: center;
-    }
-  
-    .video-row video {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-  
-    .video-row figcaption {
-      width: 100%;
-      margin-top: 0.8rem;
-      font-style: italic;
+
+
+    /* --------------------
+      Mobile layout
+      -------------------- */
+
+    @media (max-width: 700px) {
+      .video-row:has(figure + figure) {
+        width: 90vw;
+      }
+
+      .video-row figure {
+        width: 100%;
+      }
+
+      .figure-container {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .figure-container figure {
+        width: 100%;
+      }
     }
   </style>
 </head>
